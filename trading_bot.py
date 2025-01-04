@@ -29,8 +29,13 @@ class TradingBot:
         self.exchange = ccxt.huobi()
         self.signals = {}  # Store previous signals to avoid duplicate alerts
         self.monitoring_active = True
-        self.application = Application.builder().token(os.getenv('TELEGRAM_BOT_TOKEN')).build()
+        self.telegram_token = os.getenv('TELEGRAM_BOT_TOKEN')
         self.channel_id = os.getenv('TELEGRAM_CHANNEL_ID')
+        
+        if not self.telegram_token or not self.channel_id:
+            raise ValueError("Telegram token or channel ID not found in environment variables")
+            
+        self.application = Application.builder().token(self.telegram_token).build()
         self.setup_handlers()
         self.timeframe_minutes = {
             '1m': 1,
