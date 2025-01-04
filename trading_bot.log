@@ -1,0 +1,1427 @@
+2025-01-04 00:19:33,113 - ERROR - Error fetching data for BTC/USDT: huobi {"ts":1735946373462,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:19:33,362 - ERROR - Error fetching data for ETH/USDT: huobi {"ts":1735946373710,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:19:33,609 - ERROR - Error fetching data for BNB/USDT: huobi {"ts":1735946373959,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:19:33,859 - ERROR - Error fetching data for XRP/USDT: huobi {"ts":1735946374206,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:19:34,110 - ERROR - Error fetching data for SOL/USDT: huobi {"ts":1735946374455,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:19:34,360 - ERROR - Error fetching data for ADA/USDT: huobi {"ts":1735946374708,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:19:35,311 - ERROR - Error fetching data for AVAX/USDT: huobi {"ts":1735946375661,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:19:35,558 - ERROR - Error fetching data for DOT/USDT: huobi {"ts":1735946375908,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:19:35,558 - ERROR - Error fetching data for MATIC/USDT: huobi does not have market symbol MATIC/USDT
+2025-01-04 00:19:35,807 - ERROR - Error fetching data for LINK/USDT: huobi {"ts":1735946376156,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:19:36,053 - ERROR - Error fetching data for UNI/USDT: huobi {"ts":1735946376403,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:19:36,308 - ERROR - Error fetching data for ATOM/USDT: huobi {"ts":1735946376655,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:19:36,557 - ERROR - Error fetching data for LTC/USDT: huobi {"ts":1735946376905,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:19:36,809 - ERROR - Error fetching data for OP/USDT: huobi {"ts":1735946377156,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:19:37,058 - ERROR - Error fetching data for ARB/USDT: huobi {"ts":1735946377407,"status":"error","err-code":"invalid-parameter","err-msg":"invalid size,valid range: [1, 1000]"}
+2025-01-04 00:20:33,287 - ERROR - Error fetching data for BTC/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:20:34,257 - ERROR - Error fetching data for ETH/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:20:35,218 - ERROR - Error fetching data for BNB/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:20:36,175 - ERROR - Error fetching data for XRP/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:20:37,136 - ERROR - Error fetching data for SOL/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:20:38,096 - ERROR - Error fetching data for ADA/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:20:39,056 - ERROR - Error fetching data for AVAX/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:20:40,022 - ERROR - Error fetching data for DOT/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:20:40,023 - ERROR - Error fetching data for POLYGON/USDT: huobi does not have market symbol POLYGON/USDT
+2025-01-04 00:20:40,745 - ERROR - Error fetching data for LINK/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:20:41,004 - ERROR - Error fetching data for UNI/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:20:41,260 - ERROR - Error fetching data for ATOM/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:20:42,218 - ERROR - Error fetching data for LTC/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:20:43,178 - ERROR - Error fetching data for OP/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:20:44,130 - ERROR - Error fetching data for ARB/USDT: Addition/subtraction of integers and integer-arrays with Timestamp is no longer supported.  Instead of adding/subtracting `n`, use `n * obj.freq`
+2025-01-04 00:26:58,179 - ERROR - Error fetching data for MATIC/USDT: huobi does not have market symbol MATIC/USDT
+2025-01-04 01:23:55,756 - INFO - HTTP Request: POST https://api.telegram.org/bot7112604351:AAFD7zNG-2lhXfNbpvaXoYWBARQaGRR_zxI/sendMessage "HTTP/1.1 400 Bad Request"
+2025-01-04 01:40:01,202 - ERROR - Error fetching data for MATIC/USDT: huobi does not have market symbol MATIC/USDT
+2025-01-04 01:42:24,628 - ERROR - Error fetching data for MATIC/USDT: huobi does not have market symbol MATIC/USDT
+2025-01-04 01:46:37,925 - ERROR - Error fetching data for MATIC/USDT: huobi does not have market symbol MATIC/USDT
+2025-01-04 01:56:14,442 - ERROR - Error fetching data for MATIC/USDT: huobi does not have market symbol MATIC/USDT
+2025-01-04 01:56:14,442 - ERROR - Not enough data for backtesting MATIC/USDT
+2025-01-04 01:56:16,538 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 01:56:30,700 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 01:57:51,080 - ERROR - Error fetching data for MATIC/USDT: huobi does not have market symbol MATIC/USDT
+2025-01-04 01:57:51,080 - ERROR - Not enough data for backtesting MATIC/USDT
+2025-01-04 01:58:06,346 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 01:58:51,761 - ERROR - Error fetching data for MATIC/USDT: huobi does not have market symbol MATIC/USDT
+2025-01-04 01:58:51,761 - ERROR - Not enough data for backtesting MATIC/USDT
+2025-01-04 01:59:06,574 - ERROR - Error during backtesting: 'bool' object has no attribute 'all'
+2025-01-04 01:59:52,609 - ERROR - Error fetching data for MATIC/USDT: huobi does not have market symbol MATIC/USDT
+2025-01-04 01:59:52,609 - ERROR - Not enough data for backtesting MATIC/USDT
+2025-01-04 02:00:06,866 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:00:54,741 - ERROR - Error fetching data for MATIC/USDT: huobi does not have market symbol MATIC/USDT
+2025-01-04 02:00:54,741 - ERROR - Not enough data for backtesting MATIC/USDT
+2025-01-04 02:01:08,798 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:02:26,215 - ERROR - Error fetching data for MATIC/USDT: huobi does not have market symbol MATIC/USDT
+2025-01-04 02:02:26,215 - ERROR - Not enough data for backtesting MATIC/USDT
+2025-01-04 02:06:16,120 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:17,174 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:17,910 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:18,418 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:19,388 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:19,992 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:21,109 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:22,194 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:23,011 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:23,991 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:25,035 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:26,217 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:27,040 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:27,413 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:28,208 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:28,910 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:29,663 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:30,403 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:31,156 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:31,910 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:32,726 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 02:06:33,061 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:25,035 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:26,084 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:26,647 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:28,327 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:29,584 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:30,659 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:31,250 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:33,043 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:33,398 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:34,378 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:35,432 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:37,291 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:38,109 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:39,876 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:40,672 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:41,545 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:42,296 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:43,813 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:45,269 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:46,019 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:46,615 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:02:47,418 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:22,100 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:23,861 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:24,198 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:25,882 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:26,442 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:27,046 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:28,103 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:29,175 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:30,000 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:30,513 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:30,875 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:32,053 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:32,866 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:33,935 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:34,265 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:35,145 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:35,664 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:36,469 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:36,756 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:38,212 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:39,041 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:04:39,838 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:07:38,688 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:39,660 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:40,401 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:41,140 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:42,810 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:43,780 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:44,053 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:45,033 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:45,774 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:46,752 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:47,724 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:49,405 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:50,142 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:51,109 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:52,560 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:53,293 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:54,034 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:54,770 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:55,509 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:56,260 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:56,532 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:07:57,975 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'values'
+2025-01-04 15:09:33,779 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:34,841 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:36,346 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:37,322 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:38,368 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:39,437 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:40,492 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:41,575 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:42,403 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:44,084 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:44,444 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:44,917 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:45,266 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:45,869 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:46,671 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:47,545 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:47,836 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:48,168 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:48,925 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:49,673 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:51,206 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:09:51,548 - ERROR - Error during backtesting: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-01-04 15:11:20,825 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:21,181 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:21,538 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:22,515 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:23,776 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:24,376 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:25,441 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:26,072 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:27,595 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:27,875 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:28,920 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:29,617 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:30,429 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:32,202 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:32,999 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:33,874 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:34,628 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:35,420 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:36,174 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:36,464 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:37,048 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:11:37,845 - ERROR - Error during backtesting: 'int' object has no attribute 'total_seconds'
+2025-01-04 15:12:10,975 - INFO - 
+Backtest Results for ETH/USDT:
+2025-01-04 15:12:10,975 - INFO - Total Trades: 29
+2025-01-04 15:12:10,975 - INFO - Win Rate: 41.38%
+2025-01-04 15:12:10,975 - INFO - Total Return: 1.86%
+2025-01-04 15:12:10,975 - INFO - Average Profit per Trade: -0.12%
+2025-01-04 15:12:10,975 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:10,976 - INFO - Maximum Drawdown: 16.57%
+2025-01-04 15:12:10,976 - INFO - Profit Factor: 0.70
+2025-01-04 15:12:10,976 - INFO - Sharpe Ratio: -2.89
+2025-01-04 15:12:10,976 - INFO - Max Consecutive Losses: 7
+2025-01-04 15:12:12,297 - INFO - 
+Backtest Results for SOL/USDT:
+2025-01-04 15:12:12,298 - INFO - Total Trades: 12
+2025-01-04 15:12:12,298 - INFO - Win Rate: 66.67%
+2025-01-04 15:12:12,298 - INFO - Total Return: 4.49%
+2025-01-04 15:12:12,298 - INFO - Average Profit per Trade: 0.39%
+2025-01-04 15:12:12,298 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:12,298 - INFO - Maximum Drawdown: 4.49%
+2025-01-04 15:12:12,298 - INFO - Profit Factor: 2.52
+2025-01-04 15:12:12,298 - INFO - Sharpe Ratio: 6.09
+2025-01-04 15:12:12,298 - INFO - Max Consecutive Losses: 2
+2025-01-04 15:12:13,153 - INFO - 
+Backtest Results for JUP/USDT:
+2025-01-04 15:12:13,153 - INFO - Total Trades: 6
+2025-01-04 15:12:13,153 - INFO - Win Rate: 33.33%
+2025-01-04 15:12:13,153 - INFO - Total Return: 2.91%
+2025-01-04 15:12:13,153 - INFO - Average Profit per Trade: 0.51%
+2025-01-04 15:12:13,153 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:13,153 - INFO - Maximum Drawdown: 1.12%
+2025-01-04 15:12:13,153 - INFO - Profit Factor: 2.39
+2025-01-04 15:12:13,153 - INFO - Sharpe Ratio: 4.80
+2025-01-04 15:12:13,153 - INFO - Max Consecutive Losses: 2
+2025-01-04 15:12:14,504 - INFO - 
+Backtest Results for AVAX/USDT:
+2025-01-04 15:12:14,504 - INFO - Total Trades: 4
+2025-01-04 15:12:14,504 - INFO - Win Rate: 25.00%
+2025-01-04 15:12:14,504 - INFO - Total Return: -4.37%
+2025-01-04 15:12:14,504 - INFO - Average Profit per Trade: -1.06%
+2025-01-04 15:12:14,504 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:14,504 - INFO - Maximum Drawdown: 4.37%
+2025-01-04 15:12:14,504 - INFO - Profit Factor: 0.01
+2025-01-04 15:12:14,504 - INFO - Sharpe Ratio: -26.99
+2025-01-04 15:12:14,504 - INFO - Max Consecutive Losses: 2
+2025-01-04 15:12:15,391 - INFO - 
+Backtest Results for PYTH/USDT:
+2025-01-04 15:12:15,391 - INFO - Total Trades: 1
+2025-01-04 15:12:15,392 - INFO - Win Rate: 0.00%
+2025-01-04 15:12:15,392 - INFO - Total Return: -0.15%
+2025-01-04 15:12:15,392 - INFO - Average Profit per Trade: -0.40%
+2025-01-04 15:12:15,392 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:15,392 - INFO - Maximum Drawdown: 0.15%
+2025-01-04 15:12:15,392 - INFO - Profit Factor: 0.00
+2025-01-04 15:12:15,393 - INFO - Sharpe Ratio: 0.00
+2025-01-04 15:12:15,393 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:12:16,716 - INFO - 
+Backtest Results for TRX/USDT:
+2025-01-04 15:12:16,716 - INFO - Total Trades: 3
+2025-01-04 15:12:16,716 - INFO - Win Rate: 33.33%
+2025-01-04 15:12:16,716 - INFO - Total Return: -4.69%
+2025-01-04 15:12:16,716 - INFO - Average Profit per Trade: -0.70%
+2025-01-04 15:12:16,716 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:16,716 - INFO - Maximum Drawdown: 4.71%
+2025-01-04 15:12:16,716 - INFO - Profit Factor: 0.03
+2025-01-04 15:12:16,716 - INFO - Sharpe Ratio: -23.44
+2025-01-04 15:12:16,716 - INFO - Max Consecutive Losses: 2
+2025-01-04 15:12:18,578 - INFO - 
+Backtest Results for DOT/USDT:
+2025-01-04 15:12:18,578 - INFO - Total Trades: 1
+2025-01-04 15:12:18,578 - INFO - Win Rate: 0.00%
+2025-01-04 15:12:18,578 - INFO - Total Return: -0.15%
+2025-01-04 15:12:18,578 - INFO - Average Profit per Trade: -0.06%
+2025-01-04 15:12:18,578 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:18,578 - INFO - Maximum Drawdown: 0.15%
+2025-01-04 15:12:18,578 - INFO - Profit Factor: 0.00
+2025-01-04 15:12:18,578 - INFO - Sharpe Ratio: 0.00
+2025-01-04 15:12:18,578 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:12:19,924 - INFO - 
+Backtest Results for LINK/USDT:
+2025-01-04 15:12:19,924 - INFO - Total Trades: 2
+2025-01-04 15:12:19,924 - INFO - Win Rate: 0.00%
+2025-01-04 15:12:19,924 - INFO - Total Return: -0.58%
+2025-01-04 15:12:19,924 - INFO - Average Profit per Trade: -1.18%
+2025-01-04 15:12:19,924 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:19,924 - INFO - Maximum Drawdown: 0.58%
+2025-01-04 15:12:19,924 - INFO - Profit Factor: 0.00
+2025-01-04 15:12:19,924 - INFO - Sharpe Ratio: -55.50
+2025-01-04 15:12:19,925 - INFO - Max Consecutive Losses: 2
+2025-01-04 15:12:21,117 - INFO - 
+Backtest Results for ORDI/USDT:
+2025-01-04 15:12:21,117 - INFO - Total Trades: 6
+2025-01-04 15:12:21,117 - INFO - Win Rate: 66.67%
+2025-01-04 15:12:21,117 - INFO - Total Return: 3.96%
+2025-01-04 15:12:21,117 - INFO - Average Profit per Trade: 0.08%
+2025-01-04 15:12:21,117 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:21,117 - INFO - Maximum Drawdown: 2.33%
+2025-01-04 15:12:21,117 - INFO - Profit Factor: 1.19
+2025-01-04 15:12:21,117 - INFO - Sharpe Ratio: 1.49
+2025-01-04 15:12:21,117 - INFO - Max Consecutive Losses: 2
+2025-01-04 15:12:21,990 - INFO - 
+Backtest Results for ADA/USDT:
+2025-01-04 15:12:21,991 - INFO - Total Trades: 4
+2025-01-04 15:12:21,991 - INFO - Win Rate: 25.00%
+2025-01-04 15:12:21,991 - INFO - Total Return: -7.73%
+2025-01-04 15:12:21,991 - INFO - Average Profit per Trade: -0.91%
+2025-01-04 15:12:21,991 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:21,991 - INFO - Maximum Drawdown: 8.33%
+2025-01-04 15:12:21,991 - INFO - Profit Factor: 0.06
+2025-01-04 15:12:21,991 - INFO - Sharpe Ratio: -25.45
+2025-01-04 15:12:21,991 - INFO - Max Consecutive Losses: 3
+2025-01-04 15:12:22,837 - INFO - 
+Backtest Results for DOGE/USDT:
+2025-01-04 15:12:22,838 - INFO - Total Trades: 1
+2025-01-04 15:12:22,838 - INFO - Win Rate: 0.00%
+2025-01-04 15:12:22,838 - INFO - Total Return: -0.04%
+2025-01-04 15:12:22,838 - INFO - Average Profit per Trade: -0.46%
+2025-01-04 15:12:22,838 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:22,838 - INFO - Maximum Drawdown: 0.04%
+2025-01-04 15:12:22,838 - INFO - Profit Factor: 0.00
+2025-01-04 15:12:22,838 - INFO - Sharpe Ratio: 0.00
+2025-01-04 15:12:22,838 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:12:24,235 - INFO - 
+Backtest Results for SHIB/USDT:
+2025-01-04 15:12:24,236 - INFO - Total Trades: 2
+2025-01-04 15:12:24,236 - INFO - Win Rate: 50.00%
+2025-01-04 15:12:24,236 - INFO - Total Return: 0.98%
+2025-01-04 15:12:24,236 - INFO - Average Profit per Trade: 0.33%
+2025-01-04 15:12:24,236 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:24,236 - INFO - Maximum Drawdown: 0.20%
+2025-01-04 15:12:24,236 - INFO - Profit Factor: 5.80
+2025-01-04 15:12:24,236 - INFO - Sharpe Ratio: 13.49
+2025-01-04 15:12:24,236 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:12:26,052 - INFO - 
+Backtest Results for LTC/USDT:
+2025-01-04 15:12:26,052 - INFO - Total Trades: 6
+2025-01-04 15:12:26,052 - INFO - Win Rate: 16.67%
+2025-01-04 15:12:26,052 - INFO - Total Return: -11.26%
+2025-01-04 15:12:26,052 - INFO - Average Profit per Trade: -1.55%
+2025-01-04 15:12:26,052 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:26,052 - INFO - Maximum Drawdown: 11.26%
+2025-01-04 15:12:26,052 - INFO - Profit Factor: 0.03
+2025-01-04 15:12:26,052 - INFO - Sharpe Ratio: -22.27
+2025-01-04 15:12:26,052 - INFO - Max Consecutive Losses: 3
+2025-01-04 15:12:27,433 - INFO - 
+Backtest Results for UNI/USDT:
+2025-01-04 15:12:27,434 - INFO - Total Trades: 4
+2025-01-04 15:12:27,434 - INFO - Win Rate: 50.00%
+2025-01-04 15:12:27,434 - INFO - Total Return: 0.95%
+2025-01-04 15:12:27,434 - INFO - Average Profit per Trade: -0.09%
+2025-01-04 15:12:27,434 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:27,434 - INFO - Maximum Drawdown: 0.91%
+2025-01-04 15:12:27,434 - INFO - Profit Factor: 0.90
+2025-01-04 15:12:27,434 - INFO - Sharpe Ratio: -0.80
+2025-01-04 15:12:27,434 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:12:28,581 - INFO - 
+Backtest Results for BCH/USDT:
+2025-01-04 15:12:28,581 - INFO - Total Trades: 8
+2025-01-04 15:12:28,581 - INFO - Win Rate: 12.50%
+2025-01-04 15:12:28,581 - INFO - Total Return: -11.33%
+2025-01-04 15:12:28,581 - INFO - Average Profit per Trade: -0.68%
+2025-01-04 15:12:28,581 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:28,581 - INFO - Maximum Drawdown: 16.17%
+2025-01-04 15:12:28,581 - INFO - Profit Factor: 0.18
+2025-01-04 15:12:28,581 - INFO - Sharpe Ratio: -13.61
+2025-01-04 15:12:28,581 - INFO - Max Consecutive Losses: 7
+2025-01-04 15:12:29,692 - INFO - 
+Backtest Results for ICP/USDT:
+2025-01-04 15:12:29,693 - INFO - Total Trades: 6
+2025-01-04 15:12:29,693 - INFO - Win Rate: 33.33%
+2025-01-04 15:12:29,693 - INFO - Total Return: -0.59%
+2025-01-04 15:12:29,693 - INFO - Average Profit per Trade: -0.41%
+2025-01-04 15:12:29,693 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:29,693 - INFO - Maximum Drawdown: 2.12%
+2025-01-04 15:12:29,693 - INFO - Profit Factor: 0.30
+2025-01-04 15:12:29,693 - INFO - Sharpe Ratio: -7.78
+2025-01-04 15:12:29,693 - INFO - Max Consecutive Losses: 3
+2025-01-04 15:12:30,846 - INFO - 
+Backtest Results for INJ/USDT:
+2025-01-04 15:12:30,846 - INFO - Total Trades: 3
+2025-01-04 15:12:30,846 - INFO - Win Rate: 33.33%
+2025-01-04 15:12:30,846 - INFO - Total Return: -1.37%
+2025-01-04 15:12:30,846 - INFO - Average Profit per Trade: 0.10%
+2025-01-04 15:12:30,846 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:30,846 - INFO - Maximum Drawdown: 1.78%
+2025-01-04 15:12:30,846 - INFO - Profit Factor: 1.11
+2025-01-04 15:12:30,846 - INFO - Sharpe Ratio: 0.88
+2025-01-04 15:12:30,846 - INFO - Max Consecutive Losses: 2
+2025-01-04 15:12:31,935 - INFO - 
+Backtest Results for SEI/USDT:
+2025-01-04 15:12:31,936 - INFO - Total Trades: 3
+2025-01-04 15:12:31,936 - INFO - Win Rate: 66.67%
+2025-01-04 15:12:31,936 - INFO - Total Return: 0.89%
+2025-01-04 15:12:31,936 - INFO - Average Profit per Trade: 0.95%
+2025-01-04 15:12:31,936 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:31,936 - INFO - Maximum Drawdown: 0.75%
+2025-01-04 15:12:31,936 - INFO - Profit Factor: 2.77
+2025-01-04 15:12:31,936 - INFO - Sharpe Ratio: 7.25
+2025-01-04 15:12:31,936 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:12:33,028 - INFO - 
+Backtest Results for OP/USDT:
+2025-01-04 15:12:33,028 - INFO - Total Trades: 4
+2025-01-04 15:12:33,028 - INFO - Win Rate: 75.00%
+2025-01-04 15:12:33,028 - INFO - Total Return: 3.15%
+2025-01-04 15:12:33,028 - INFO - Average Profit per Trade: 1.06%
+2025-01-04 15:12:33,028 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:33,028 - INFO - Maximum Drawdown: 0.71%
+2025-01-04 15:12:33,028 - INFO - Profit Factor: 4.20
+2025-01-04 15:12:33,028 - INFO - Sharpe Ratio: 9.63
+2025-01-04 15:12:33,028 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:12:34,161 - INFO - 
+Backtest Results for FIL/USDT:
+2025-01-04 15:12:34,161 - INFO - Total Trades: 5
+2025-01-04 15:12:34,161 - INFO - Win Rate: 20.00%
+2025-01-04 15:12:34,161 - INFO - Total Return: -0.64%
+2025-01-04 15:12:34,161 - INFO - Average Profit per Trade: 0.13%
+2025-01-04 15:12:34,161 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:34,161 - INFO - Maximum Drawdown: 1.96%
+2025-01-04 15:12:34,161 - INFO - Profit Factor: 1.15
+2025-01-04 15:12:34,161 - INFO - Sharpe Ratio: 0.99
+2025-01-04 15:12:34,161 - INFO - Max Consecutive Losses: 3
+2025-01-04 15:12:35,258 - INFO - 
+Backtest Results for WIF/USDT:
+2025-01-04 15:12:35,258 - INFO - Total Trades: 4
+2025-01-04 15:12:35,258 - INFO - Win Rate: 0.00%
+2025-01-04 15:12:35,258 - INFO - Total Return: -3.45%
+2025-01-04 15:12:35,258 - INFO - Average Profit per Trade: -1.55%
+2025-01-04 15:12:35,258 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:35,258 - INFO - Maximum Drawdown: 3.45%
+2025-01-04 15:12:35,258 - INFO - Profit Factor: 0.00
+2025-01-04 15:12:35,258 - INFO - Sharpe Ratio: -42.54
+2025-01-04 15:12:35,258 - INFO - Max Consecutive Losses: 4
+2025-01-04 15:12:36,386 - INFO - 
+Backtest Results for ARB/USDT:
+2025-01-04 15:12:36,387 - INFO - Total Trades: 4
+2025-01-04 15:12:36,387 - INFO - Win Rate: 25.00%
+2025-01-04 15:12:36,387 - INFO - Total Return: -6.01%
+2025-01-04 15:12:36,387 - INFO - Average Profit per Trade: -1.16%
+2025-01-04 15:12:36,387 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:12:36,387 - INFO - Maximum Drawdown: 6.43%
+2025-01-04 15:12:36,387 - INFO - Profit Factor: 0.09
+2025-01-04 15:12:36,387 - INFO - Sharpe Ratio: -18.35
+2025-01-04 15:12:36,387 - INFO - Max Consecutive Losses: 3
+2025-01-04 15:28:13,999 - INFO - 
+Backtest Results for ETH/USDT:
+2025-01-04 15:28:13,999 - INFO - Total Trades: 6
+2025-01-04 15:28:13,999 - INFO - Win Rate: 50.00%
+2025-01-04 15:28:13,999 - INFO - Total Return: 0.89%
+2025-01-04 15:28:13,999 - INFO - Average Profit per Trade: 0.11%
+2025-01-04 15:28:13,999 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:28:13,999 - INFO - Maximum Drawdown: 3.18%
+2025-01-04 15:28:13,999 - INFO - Profit Factor: 1.37
+2025-01-04 15:28:14,000 - INFO - Sharpe Ratio: 2.65
+2025-01-04 15:28:14,000 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:28:18,400 - INFO - 
+Backtest Results for SOL/USDT:
+2025-01-04 15:28:18,401 - INFO - Total Trades: 1
+2025-01-04 15:28:18,401 - INFO - Win Rate: 0.00%
+2025-01-04 15:28:18,401 - INFO - Total Return: -1.09%
+2025-01-04 15:28:18,401 - INFO - Average Profit per Trade: -0.53%
+2025-01-04 15:28:18,401 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:28:18,401 - INFO - Maximum Drawdown: 1.09%
+2025-01-04 15:28:18,401 - INFO - Profit Factor: 0.00
+2025-01-04 15:28:18,401 - INFO - Sharpe Ratio: 0.00
+2025-01-04 15:28:18,401 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:29:04,599 - INFO - 
+Backtest Results for DOGE/USDT:
+2025-01-04 15:29:04,599 - INFO - Total Trades: 1
+2025-01-04 15:29:04,599 - INFO - Win Rate: 0.00%
+2025-01-04 15:29:04,599 - INFO - Total Return: -0.52%
+2025-01-04 15:29:04,599 - INFO - Average Profit per Trade: -3.23%
+2025-01-04 15:29:04,599 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:29:04,599 - INFO - Maximum Drawdown: 0.52%
+2025-01-04 15:29:04,599 - INFO - Profit Factor: 0.00
+2025-01-04 15:29:04,599 - INFO - Sharpe Ratio: 0.00
+2025-01-04 15:29:04,599 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:29:09,577 - INFO - 
+Backtest Results for SHIB/USDT:
+2025-01-04 15:29:09,577 - INFO - Total Trades: 1
+2025-01-04 15:29:09,577 - INFO - Win Rate: 0.00%
+2025-01-04 15:29:09,577 - INFO - Total Return: -2.42%
+2025-01-04 15:29:09,577 - INFO - Average Profit per Trade: -2.76%
+2025-01-04 15:29:09,577 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:29:09,577 - INFO - Maximum Drawdown: 2.42%
+2025-01-04 15:29:09,577 - INFO - Profit Factor: 0.00
+2025-01-04 15:29:09,577 - INFO - Sharpe Ratio: 0.00
+2025-01-04 15:29:09,578 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:29:14,299 - INFO - 
+Backtest Results for LTC/USDT:
+2025-01-04 15:29:14,299 - INFO - Total Trades: 3
+2025-01-04 15:29:14,299 - INFO - Win Rate: 66.67%
+2025-01-04 15:29:14,299 - INFO - Total Return: 1.74%
+2025-01-04 15:29:14,299 - INFO - Average Profit per Trade: 1.00%
+2025-01-04 15:29:14,299 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:29:14,300 - INFO - Maximum Drawdown: 2.08%
+2025-01-04 15:29:14,300 - INFO - Profit Factor: 3.00
+2025-01-04 15:29:14,300 - INFO - Sharpe Ratio: 10.41
+2025-01-04 15:29:14,300 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:29:25,376 - INFO - 
+Backtest Results for BCH/USDT:
+2025-01-04 15:29:25,376 - INFO - Total Trades: 2
+2025-01-04 15:29:25,378 - INFO - Win Rate: 0.00%
+2025-01-04 15:29:25,378 - INFO - Total Return: -4.66%
+2025-01-04 15:29:25,378 - INFO - Average Profit per Trade: -1.54%
+2025-01-04 15:29:25,378 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:29:25,378 - INFO - Maximum Drawdown: 4.66%
+2025-01-04 15:29:25,378 - INFO - Profit Factor: 0.00
+2025-01-04 15:29:25,378 - INFO - Sharpe Ratio: -249.01
+2025-01-04 15:29:25,378 - INFO - Max Consecutive Losses: 2
+2025-01-04 15:30:58,523 - ERROR - Error during backtesting: 'squeeze_off'
+2025-01-04 15:31:05,600 - ERROR - Error during backtesting: 'squeeze_off'
+2025-01-04 15:31:50,742 - ERROR - Error during backtesting: 'squeeze_off'
+2025-01-04 15:31:55,094 - ERROR - Error during backtesting: 'squeeze_off'
+2025-01-04 15:31:59,201 - ERROR - Error during backtesting: 'squeeze_off'
+2025-01-04 15:32:09,491 - ERROR - Error during backtesting: 'squeeze_off'
+2025-01-04 15:34:32,099 - ERROR - Error during backtesting: 'keltner_lower'
+2025-01-04 15:34:37,750 - ERROR - Error during backtesting: 'keltner_lower'
+2025-01-04 15:35:26,239 - ERROR - Error during backtesting: 'keltner_lower'
+2025-01-04 15:35:31,064 - ERROR - Error during backtesting: 'keltner_lower'
+2025-01-04 15:35:34,710 - ERROR - Error during backtesting: 'keltner_lower'
+2025-01-04 15:35:44,316 - ERROR - Error during backtesting: 'keltner_lower'
+2025-01-04 15:39:12,730 - INFO - 
+Backtest Results for ETH/USDT:
+2025-01-04 15:39:12,731 - INFO - Total Trades: 6
+2025-01-04 15:39:12,731 - INFO - Win Rate: 50.00%
+2025-01-04 15:39:12,731 - INFO - Total Return: 0.47%
+2025-01-04 15:39:12,731 - INFO - Average Profit per Trade: 0.19%
+2025-01-04 15:39:12,731 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:39:12,731 - INFO - Maximum Drawdown: 3.18%
+2025-01-04 15:39:12,731 - INFO - Profit Factor: 1.47
+2025-01-04 15:39:12,731 - INFO - Sharpe Ratio: 3.24
+2025-01-04 15:39:12,731 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:39:19,204 - INFO - 
+Backtest Results for SOL/USDT:
+2025-01-04 15:39:19,205 - INFO - Total Trades: 1
+2025-01-04 15:39:19,205 - INFO - Win Rate: 100.00%
+2025-01-04 15:39:19,205 - INFO - Total Return: 0.59%
+2025-01-04 15:39:19,205 - INFO - Average Profit per Trade: 0.28%
+2025-01-04 15:39:19,205 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:39:19,205 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 15:39:19,205 - INFO - Profit Factor: 1.00
+2025-01-04 15:39:19,205 - INFO - Sharpe Ratio: 0.00
+2025-01-04 15:39:19,205 - INFO - Max Consecutive Losses: 0
+2025-01-04 15:40:07,863 - INFO - 
+Backtest Results for DOGE/USDT:
+2025-01-04 15:40:07,864 - INFO - Total Trades: 1
+2025-01-04 15:40:07,864 - INFO - Win Rate: 0.00%
+2025-01-04 15:40:07,864 - INFO - Total Return: -0.52%
+2025-01-04 15:40:07,864 - INFO - Average Profit per Trade: -3.23%
+2025-01-04 15:40:07,864 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:40:07,864 - INFO - Maximum Drawdown: 0.52%
+2025-01-04 15:40:07,864 - INFO - Profit Factor: 0.00
+2025-01-04 15:40:07,864 - INFO - Sharpe Ratio: 0.00
+2025-01-04 15:40:07,864 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:40:13,574 - INFO - 
+Backtest Results for SHIB/USDT:
+2025-01-04 15:40:13,574 - INFO - Total Trades: 1
+2025-01-04 15:40:13,574 - INFO - Win Rate: 0.00%
+2025-01-04 15:40:13,574 - INFO - Total Return: -2.42%
+2025-01-04 15:40:13,574 - INFO - Average Profit per Trade: -2.76%
+2025-01-04 15:40:13,574 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:40:13,574 - INFO - Maximum Drawdown: 2.42%
+2025-01-04 15:40:13,574 - INFO - Profit Factor: 0.00
+2025-01-04 15:40:13,575 - INFO - Sharpe Ratio: 0.00
+2025-01-04 15:40:13,575 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:40:19,497 - INFO - 
+Backtest Results for LTC/USDT:
+2025-01-04 15:40:19,497 - INFO - Total Trades: 3
+2025-01-04 15:40:19,497 - INFO - Win Rate: 66.67%
+2025-01-04 15:40:19,497 - INFO - Total Return: -1.11%
+2025-01-04 15:40:19,497 - INFO - Average Profit per Trade: -0.05%
+2025-01-04 15:40:19,497 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:40:19,497 - INFO - Maximum Drawdown: 2.08%
+2025-01-04 15:40:19,497 - INFO - Profit Factor: 0.89
+2025-01-04 15:40:19,497 - INFO - Sharpe Ratio: -1.02
+2025-01-04 15:40:19,497 - INFO - Max Consecutive Losses: 1
+2025-01-04 15:40:30,635 - INFO - 
+Backtest Results for BCH/USDT:
+2025-01-04 15:40:30,635 - INFO - Total Trades: 1
+2025-01-04 15:40:30,635 - INFO - Win Rate: 0.00%
+2025-01-04 15:40:30,635 - INFO - Total Return: -2.30%
+2025-01-04 15:40:30,635 - INFO - Average Profit per Trade: -1.04%
+2025-01-04 15:40:30,635 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 15:40:30,635 - INFO - Maximum Drawdown: 2.30%
+2025-01-04 15:40:30,635 - INFO - Profit Factor: 0.00
+2025-01-04 15:40:30,635 - INFO - Sharpe Ratio: 0.00
+2025-01-04 15:40:30,635 - INFO - Max Consecutive Losses: 1
+2025-01-04 16:10:12,471 - INFO - 
+Backtest Results for ETH/USDT:
+2025-01-04 16:10:12,471 - INFO - Total Trades: 6
+2025-01-04 16:10:12,471 - INFO - Win Rate: 50.00%
+2025-01-04 16:10:12,471 - INFO - Total Return: 0.47%
+2025-01-04 16:10:12,471 - INFO - Average Profit per Trade: 0.19%
+2025-01-04 16:10:12,471 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:10:12,471 - INFO - Maximum Drawdown: 3.18%
+2025-01-04 16:10:12,471 - INFO - Profit Factor: 1.47
+2025-01-04 16:10:12,471 - INFO - Sharpe Ratio: 3.24
+2025-01-04 16:10:12,472 - INFO - Max Consecutive Losses: 1
+2025-01-04 16:10:18,090 - INFO - 
+Backtest Results for SOL/USDT:
+2025-01-04 16:10:18,091 - INFO - Total Trades: 1
+2025-01-04 16:10:18,091 - INFO - Win Rate: 100.00%
+2025-01-04 16:10:18,091 - INFO - Total Return: 0.59%
+2025-01-04 16:10:18,091 - INFO - Average Profit per Trade: 0.28%
+2025-01-04 16:10:18,091 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:10:18,091 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 16:10:18,091 - INFO - Profit Factor: 1.00
+2025-01-04 16:10:18,091 - INFO - Sharpe Ratio: 0.00
+2025-01-04 16:10:18,091 - INFO - Max Consecutive Losses: 0
+2025-01-04 16:11:09,811 - INFO - 
+Backtest Results for LTC/USDT:
+2025-01-04 16:11:09,811 - INFO - Total Trades: 3
+2025-01-04 16:11:09,811 - INFO - Win Rate: 66.67%
+2025-01-04 16:11:09,811 - INFO - Total Return: -1.11%
+2025-01-04 16:11:09,811 - INFO - Average Profit per Trade: -0.05%
+2025-01-04 16:11:09,811 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:11:09,811 - INFO - Maximum Drawdown: 2.08%
+2025-01-04 16:11:09,811 - INFO - Profit Factor: 0.89
+2025-01-04 16:11:09,811 - INFO - Sharpe Ratio: -1.02
+2025-01-04 16:11:09,811 - INFO - Max Consecutive Losses: 1
+2025-01-04 16:11:31,046 - INFO - 
+Backtest Results for NEAR/USDT:
+2025-01-04 16:11:31,046 - INFO - Total Trades: 1
+2025-01-04 16:11:31,046 - INFO - Win Rate: 0.00%
+2025-01-04 16:11:31,046 - INFO - Total Return: -1.06%
+2025-01-04 16:11:31,046 - INFO - Average Profit per Trade: -1.92%
+2025-01-04 16:11:31,046 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:11:31,046 - INFO - Maximum Drawdown: 1.06%
+2025-01-04 16:11:31,046 - INFO - Profit Factor: 0.00
+2025-01-04 16:11:31,046 - INFO - Sharpe Ratio: 0.00
+2025-01-04 16:11:31,046 - INFO - Max Consecutive Losses: 1
+2025-01-04 16:19:14,321 - INFO - 
+Backtest Results for ETH/USDT:
+2025-01-04 16:19:14,321 - INFO - Total Trades: 423
+2025-01-04 16:19:14,321 - INFO - Win Rate: 51.30%
+2025-01-04 16:19:14,321 - INFO - Total Return: 67.36%
+2025-01-04 16:19:14,321 - INFO - Average Profit per Trade: 0.06%
+2025-01-04 16:19:14,321 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:19:14,321 - INFO - Maximum Drawdown: 24.16%
+2025-01-04 16:19:14,322 - INFO - Profit Factor: 1.21
+2025-01-04 16:19:14,322 - INFO - Sharpe Ratio: 1.30
+2025-01-04 16:19:14,322 - INFO - Max Consecutive Losses: 6
+2025-01-04 16:19:20,174 - INFO - 
+Backtest Results for SOL/USDT:
+2025-01-04 16:19:20,174 - INFO - Total Trades: 265
+2025-01-04 16:19:20,174 - INFO - Win Rate: 54.72%
+2025-01-04 16:19:20,174 - INFO - Total Return: 77.95%
+2025-01-04 16:19:20,174 - INFO - Average Profit per Trade: 0.13%
+2025-01-04 16:19:20,174 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:19:20,174 - INFO - Maximum Drawdown: 19.96%
+2025-01-04 16:19:20,176 - INFO - Profit Factor: 1.36
+2025-01-04 16:19:20,176 - INFO - Sharpe Ratio: 2.13
+2025-01-04 16:19:20,176 - INFO - Max Consecutive Losses: 6
+2025-01-04 16:19:25,101 - INFO - 
+Backtest Results for JUP/USDT:
+2025-01-04 16:19:25,101 - INFO - Total Trades: 157
+2025-01-04 16:19:25,101 - INFO - Win Rate: 40.13%
+2025-01-04 16:19:25,101 - INFO - Total Return: 0.65%
+2025-01-04 16:19:25,101 - INFO - Average Profit per Trade: -0.02%
+2025-01-04 16:19:25,101 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:19:25,101 - INFO - Maximum Drawdown: 17.09%
+2025-01-04 16:19:25,101 - INFO - Profit Factor: 0.98
+2025-01-04 16:19:25,101 - INFO - Sharpe Ratio: -0.15
+2025-01-04 16:19:25,101 - INFO - Max Consecutive Losses: 6
+2025-01-04 16:19:30,651 - INFO - 
+Backtest Results for AVAX/USDT:
+2025-01-04 16:19:30,651 - INFO - Total Trades: 132
+2025-01-04 16:19:30,651 - INFO - Win Rate: 38.64%
+2025-01-04 16:19:30,651 - INFO - Total Return: -4.97%
+2025-01-04 16:19:30,651 - INFO - Average Profit per Trade: -0.06%
+2025-01-04 16:19:30,651 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:19:30,651 - INFO - Maximum Drawdown: 16.99%
+2025-01-04 16:19:30,651 - INFO - Profit Factor: 0.91
+2025-01-04 16:19:30,651 - INFO - Sharpe Ratio: -0.65
+2025-01-04 16:19:30,651 - INFO - Max Consecutive Losses: 10
+2025-01-04 16:19:36,662 - INFO - 
+Backtest Results for PYTH/USDT:
+2025-01-04 16:19:36,662 - INFO - Total Trades: 145
+2025-01-04 16:19:36,662 - INFO - Win Rate: 33.79%
+2025-01-04 16:19:36,662 - INFO - Total Return: -8.10%
+2025-01-04 16:19:36,662 - INFO - Average Profit per Trade: -0.24%
+2025-01-04 16:19:36,662 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:19:36,662 - INFO - Maximum Drawdown: 22.06%
+2025-01-04 16:19:36,662 - INFO - Profit Factor: 0.73
+2025-01-04 16:19:36,662 - INFO - Sharpe Ratio: -2.41
+2025-01-04 16:19:36,663 - INFO - Max Consecutive Losses: 13
+2025-01-04 16:19:41,990 - INFO - 
+Backtest Results for TRX/USDT:
+2025-01-04 16:19:41,992 - INFO - Total Trades: 137
+2025-01-04 16:19:41,992 - INFO - Win Rate: 45.26%
+2025-01-04 16:19:41,992 - INFO - Total Return: 48.60%
+2025-01-04 16:19:41,992 - INFO - Average Profit per Trade: 0.17%
+2025-01-04 16:19:41,992 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:19:41,992 - INFO - Maximum Drawdown: 12.38%
+2025-01-04 16:19:41,992 - INFO - Profit Factor: 1.58
+2025-01-04 16:19:41,992 - INFO - Sharpe Ratio: 2.49
+2025-01-04 16:19:41,992 - INFO - Max Consecutive Losses: 8
+2025-01-04 16:19:47,287 - INFO - 
+Backtest Results for DOT/USDT:
+2025-01-04 16:19:47,287 - INFO - Total Trades: 134
+2025-01-04 16:19:47,287 - INFO - Win Rate: 44.78%
+2025-01-04 16:19:47,287 - INFO - Total Return: 26.88%
+2025-01-04 16:19:47,287 - INFO - Average Profit per Trade: 0.23%
+2025-01-04 16:19:47,288 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:19:47,288 - INFO - Maximum Drawdown: 7.12%
+2025-01-04 16:19:47,288 - INFO - Profit Factor: 1.44
+2025-01-04 16:19:47,288 - INFO - Sharpe Ratio: 2.42
+2025-01-04 16:19:47,288 - INFO - Max Consecutive Losses: 8
+2025-01-04 16:19:51,934 - INFO - 
+Backtest Results for LINK/USDT:
+2025-01-04 16:19:51,935 - INFO - Total Trades: 166
+2025-01-04 16:19:51,935 - INFO - Win Rate: 42.17%
+2025-01-04 16:19:51,935 - INFO - Total Return: 23.74%
+2025-01-04 16:19:51,935 - INFO - Average Profit per Trade: -0.05%
+2025-01-04 16:19:51,935 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:19:51,935 - INFO - Maximum Drawdown: 22.99%
+2025-01-04 16:19:51,935 - INFO - Profit Factor: 0.92
+2025-01-04 16:19:51,935 - INFO - Sharpe Ratio: -0.59
+2025-01-04 16:19:51,935 - INFO - Max Consecutive Losses: 10
+2025-01-04 16:19:57,926 - INFO - 
+Backtest Results for ORDI/USDT:
+2025-01-04 16:19:57,926 - INFO - Total Trades: 174
+2025-01-04 16:19:57,926 - INFO - Win Rate: 39.08%
+2025-01-04 16:19:57,926 - INFO - Total Return: 5.29%
+2025-01-04 16:19:57,926 - INFO - Average Profit per Trade: 0.01%
+2025-01-04 16:19:57,926 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:19:57,926 - INFO - Maximum Drawdown: 17.38%
+2025-01-04 16:19:57,926 - INFO - Profit Factor: 1.02
+2025-01-04 16:19:57,926 - INFO - Sharpe Ratio: 0.13
+2025-01-04 16:19:57,926 - INFO - Max Consecutive Losses: 10
+2025-01-04 16:20:03,004 - INFO - 
+Backtest Results for ADA/USDT:
+2025-01-04 16:20:03,004 - INFO - Total Trades: 166
+2025-01-04 16:20:03,004 - INFO - Win Rate: 41.57%
+2025-01-04 16:20:03,004 - INFO - Total Return: 10.86%
+2025-01-04 16:20:03,004 - INFO - Average Profit per Trade: -0.05%
+2025-01-04 16:20:03,004 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:20:03,004 - INFO - Maximum Drawdown: 20.91%
+2025-01-04 16:20:03,004 - INFO - Profit Factor: 0.93
+2025-01-04 16:20:03,004 - INFO - Sharpe Ratio: -0.49
+2025-01-04 16:20:03,004 - INFO - Max Consecutive Losses: 8
+2025-01-04 16:20:08,753 - INFO - 
+Backtest Results for LTC/USDT:
+2025-01-04 16:20:08,753 - INFO - Total Trades: 223
+2025-01-04 16:20:08,754 - INFO - Win Rate: 43.50%
+2025-01-04 16:20:08,754 - INFO - Total Return: 42.18%
+2025-01-04 16:20:08,754 - INFO - Average Profit per Trade: 0.09%
+2025-01-04 16:20:08,754 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:20:08,754 - INFO - Maximum Drawdown: 21.75%
+2025-01-04 16:20:08,754 - INFO - Profit Factor: 1.16
+2025-01-04 16:20:08,754 - INFO - Sharpe Ratio: 1.00
+2025-01-04 16:20:08,754 - INFO - Max Consecutive Losses: 13
+2025-01-04 16:20:13,546 - INFO - 
+Backtest Results for UNI/USDT:
+2025-01-04 16:20:13,546 - INFO - Total Trades: 141
+2025-01-04 16:20:13,546 - INFO - Win Rate: 42.55%
+2025-01-04 16:20:13,546 - INFO - Total Return: 11.04%
+2025-01-04 16:20:13,546 - INFO - Average Profit per Trade: 0.10%
+2025-01-04 16:20:13,546 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:20:13,546 - INFO - Maximum Drawdown: 12.80%
+2025-01-04 16:20:13,546 - INFO - Profit Factor: 1.15
+2025-01-04 16:20:13,546 - INFO - Sharpe Ratio: 0.97
+2025-01-04 16:20:13,546 - INFO - Max Consecutive Losses: 9
+2025-01-04 16:20:18,581 - INFO - 
+Backtest Results for POL/USDT:
+2025-01-04 16:20:18,581 - INFO - Total Trades: 152
+2025-01-04 16:20:18,581 - INFO - Win Rate: 38.82%
+2025-01-04 16:20:18,581 - INFO - Total Return: 11.00%
+2025-01-04 16:20:18,581 - INFO - Average Profit per Trade: -0.07%
+2025-01-04 16:20:18,581 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:20:18,581 - INFO - Maximum Drawdown: 33.69%
+2025-01-04 16:20:18,581 - INFO - Profit Factor: 0.90
+2025-01-04 16:20:18,581 - INFO - Sharpe Ratio: -0.74
+2025-01-04 16:20:18,582 - INFO - Max Consecutive Losses: 9
+2025-01-04 16:20:23,893 - INFO - 
+Backtest Results for ATOM/USDT:
+2025-01-04 16:20:23,893 - INFO - Total Trades: 125
+2025-01-04 16:20:23,893 - INFO - Win Rate: 38.40%
+2025-01-04 16:20:23,893 - INFO - Total Return: 12.15%
+2025-01-04 16:20:23,893 - INFO - Average Profit per Trade: -0.13%
+2025-01-04 16:20:23,894 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:20:23,894 - INFO - Maximum Drawdown: 20.94%
+2025-01-04 16:20:23,894 - INFO - Profit Factor: 0.81
+2025-01-04 16:20:23,894 - INFO - Sharpe Ratio: -1.50
+2025-01-04 16:20:23,894 - INFO - Max Consecutive Losses: 15
+2025-01-04 16:20:28,246 - INFO - 
+Backtest Results for NEAR/USDT:
+2025-01-04 16:20:28,247 - INFO - Total Trades: 148
+2025-01-04 16:20:28,247 - INFO - Win Rate: 35.81%
+2025-01-04 16:20:28,247 - INFO - Total Return: 2.35%
+2025-01-04 16:20:28,247 - INFO - Average Profit per Trade: -0.17%
+2025-01-04 16:20:28,247 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:20:28,247 - INFO - Maximum Drawdown: 18.37%
+2025-01-04 16:20:28,247 - INFO - Profit Factor: 0.80
+2025-01-04 16:20:28,247 - INFO - Sharpe Ratio: -1.62
+2025-01-04 16:20:28,247 - INFO - Max Consecutive Losses: 9
+2025-01-04 16:20:33,291 - INFO - 
+Backtest Results for ICP/USDT:
+2025-01-04 16:20:33,291 - INFO - Total Trades: 169
+2025-01-04 16:20:33,291 - INFO - Win Rate: 39.64%
+2025-01-04 16:20:33,291 - INFO - Total Return: -19.42%
+2025-01-04 16:20:33,291 - INFO - Average Profit per Trade: -0.14%
+2025-01-04 16:20:33,291 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:20:33,291 - INFO - Maximum Drawdown: 29.00%
+2025-01-04 16:20:33,291 - INFO - Profit Factor: 0.81
+2025-01-04 16:20:33,291 - INFO - Sharpe Ratio: -1.49
+2025-01-04 16:20:33,291 - INFO - Max Consecutive Losses: 8
+2025-01-04 16:20:38,335 - INFO - 
+Backtest Results for INJ/USDT:
+2025-01-04 16:20:38,335 - INFO - Total Trades: 118
+2025-01-04 16:20:38,335 - INFO - Win Rate: 37.29%
+2025-01-04 16:20:38,335 - INFO - Total Return: -24.68%
+2025-01-04 16:20:38,335 - INFO - Average Profit per Trade: -0.10%
+2025-01-04 16:20:38,335 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:20:38,335 - INFO - Maximum Drawdown: 29.60%
+2025-01-04 16:20:38,335 - INFO - Profit Factor: 0.87
+2025-01-04 16:20:38,335 - INFO - Sharpe Ratio: -1.02
+2025-01-04 16:20:38,335 - INFO - Max Consecutive Losses: 9
+2025-01-04 16:20:43,826 - INFO - 
+Backtest Results for SEI/USDT:
+2025-01-04 16:20:43,827 - INFO - Total Trades: 176
+2025-01-04 16:20:43,827 - INFO - Win Rate: 36.36%
+2025-01-04 16:20:43,827 - INFO - Total Return: -21.51%
+2025-01-04 16:20:43,827 - INFO - Average Profit per Trade: -0.08%
+2025-01-04 16:20:43,827 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:20:43,827 - INFO - Maximum Drawdown: 28.94%
+2025-01-04 16:20:43,827 - INFO - Profit Factor: 0.88
+2025-01-04 16:20:43,827 - INFO - Sharpe Ratio: -0.83
+2025-01-04 16:20:43,827 - INFO - Max Consecutive Losses: 9
+2025-01-04 16:20:49,087 - INFO - 
+Backtest Results for OP/USDT:
+2025-01-04 16:20:49,087 - INFO - Total Trades: 153
+2025-01-04 16:20:49,087 - INFO - Win Rate: 49.02%
+2025-01-04 16:20:49,087 - INFO - Total Return: 34.11%
+2025-01-04 16:20:49,087 - INFO - Average Profit per Trade: 0.13%
+2025-01-04 16:20:49,087 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:20:49,087 - INFO - Maximum Drawdown: 16.71%
+2025-01-04 16:20:49,087 - INFO - Profit Factor: 1.18
+2025-01-04 16:20:49,087 - INFO - Sharpe Ratio: 1.18
+2025-01-04 16:20:49,087 - INFO - Max Consecutive Losses: 5
+2025-01-04 16:20:56,470 - INFO - 
+Backtest Results for FIL/USDT:
+2025-01-04 16:20:56,470 - INFO - Total Trades: 150
+2025-01-04 16:20:56,470 - INFO - Win Rate: 41.33%
+2025-01-04 16:20:56,470 - INFO - Total Return: 31.20%
+2025-01-04 16:20:56,470 - INFO - Average Profit per Trade: 0.02%
+2025-01-04 16:20:56,470 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:20:56,470 - INFO - Maximum Drawdown: 12.68%
+2025-01-04 16:20:56,470 - INFO - Profit Factor: 1.03
+2025-01-04 16:20:56,470 - INFO - Sharpe Ratio: 0.21
+2025-01-04 16:20:56,471 - INFO - Max Consecutive Losses: 8
+2025-01-04 16:21:02,013 - INFO - 
+Backtest Results for WIF/USDT:
+2025-01-04 16:21:02,014 - INFO - Total Trades: 133
+2025-01-04 16:21:02,014 - INFO - Win Rate: 36.84%
+2025-01-04 16:21:02,014 - INFO - Total Return: 10.85%
+2025-01-04 16:21:02,014 - INFO - Average Profit per Trade: -0.11%
+2025-01-04 16:21:02,014 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:21:02,014 - INFO - Maximum Drawdown: 15.72%
+2025-01-04 16:21:02,014 - INFO - Profit Factor: 0.88
+2025-01-04 16:21:02,014 - INFO - Sharpe Ratio: -0.92
+2025-01-04 16:21:02,014 - INFO - Max Consecutive Losses: 13
+2025-01-04 16:21:06,580 - INFO - 
+Backtest Results for ARB/USDT:
+2025-01-04 16:21:06,580 - INFO - Total Trades: 155
+2025-01-04 16:21:06,581 - INFO - Win Rate: 44.52%
+2025-01-04 16:21:06,581 - INFO - Total Return: 2.48%
+2025-01-04 16:21:06,581 - INFO - Average Profit per Trade: 0.04%
+2025-01-04 16:21:06,581 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 16:21:06,581 - INFO - Maximum Drawdown: 24.97%
+2025-01-04 16:21:06,581 - INFO - Profit Factor: 1.05
+2025-01-04 16:21:06,581 - INFO - Sharpe Ratio: 0.36
+2025-01-04 16:21:06,581 - INFO - Max Consecutive Losses: 9
+2025-01-04 19:28:19,576 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:28:23,940 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:28:27,833 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:28:31,949 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:28:35,611 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:28:40,193 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:28:44,312 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:28:48,911 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:28:52,801 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:28:56,699 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:29:01,288 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:29:05,400 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:29:09,984 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:29:13,170 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:29:16,342 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:29:20,914 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:29:24,092 - ERROR - Error during backtesting: 'numpy.float64' object has no attribute 'rolling'
+2025-01-04 19:30:04,127 - INFO - 
+Backtest Results for ETH/USDT:
+2025-01-04 19:30:04,127 - INFO - Total Trades: 319
+2025-01-04 19:30:04,128 - INFO - Win Rate: 47.65%
+2025-01-04 19:30:04,128 - INFO - Total Return: 34.97%
+2025-01-04 19:30:04,128 - INFO - Average Profit per Trade: 0.02%
+2025-01-04 19:30:04,128 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:30:04,128 - INFO - Maximum Drawdown: 23.95%
+2025-01-04 19:30:04,128 - INFO - Profit Factor: 1.09
+2025-01-04 19:30:04,128 - INFO - Sharpe Ratio: 0.56
+2025-01-04 19:30:04,128 - INFO - Max Consecutive Losses: 7
+2025-01-04 19:30:09,796 - INFO - 
+Backtest Results for SOL/USDT:
+2025-01-04 19:30:09,796 - INFO - Total Trades: 189
+2025-01-04 19:30:09,796 - INFO - Win Rate: 48.68%
+2025-01-04 19:30:09,796 - INFO - Total Return: 27.08%
+2025-01-04 19:30:09,796 - INFO - Average Profit per Trade: 0.02%
+2025-01-04 19:30:09,796 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:30:09,796 - INFO - Maximum Drawdown: 28.51%
+2025-01-04 19:30:09,796 - INFO - Profit Factor: 1.05
+2025-01-04 19:30:09,796 - INFO - Sharpe Ratio: 0.33
+2025-01-04 19:30:09,796 - INFO - Max Consecutive Losses: 7
+2025-01-04 19:30:15,331 - INFO - 
+Backtest Results for JUP/USDT:
+2025-01-04 19:30:15,332 - INFO - Total Trades: 76
+2025-01-04 19:30:15,332 - INFO - Win Rate: 30.26%
+2025-01-04 19:30:15,332 - INFO - Total Return: 6.88%
+2025-01-04 19:30:15,332 - INFO - Average Profit per Trade: -0.07%
+2025-01-04 19:30:15,332 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:30:15,332 - INFO - Maximum Drawdown: 19.55%
+2025-01-04 19:30:15,332 - INFO - Profit Factor: 0.93
+2025-01-04 19:30:15,332 - INFO - Sharpe Ratio: -0.52
+2025-01-04 19:30:15,332 - INFO - Max Consecutive Losses: 13
+2025-01-04 19:30:20,902 - INFO - 
+Backtest Results for AVAX/USDT:
+2025-01-04 19:30:20,902 - INFO - Total Trades: 71
+2025-01-04 19:30:20,902 - INFO - Win Rate: 30.99%
+2025-01-04 19:30:20,902 - INFO - Total Return: -11.62%
+2025-01-04 19:30:20,902 - INFO - Average Profit per Trade: -0.13%
+2025-01-04 19:30:20,902 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:30:20,902 - INFO - Maximum Drawdown: 14.81%
+2025-01-04 19:30:20,902 - INFO - Profit Factor: 0.84
+2025-01-04 19:30:20,902 - INFO - Sharpe Ratio: -1.32
+2025-01-04 19:30:20,902 - INFO - Max Consecutive Losses: 8
+2025-01-04 19:30:25,773 - INFO - 
+Backtest Results for TRX/USDT:
+2025-01-04 19:30:25,774 - INFO - Total Trades: 66
+2025-01-04 19:30:25,774 - INFO - Win Rate: 42.42%
+2025-01-04 19:30:25,774 - INFO - Total Return: 34.43%
+2025-01-04 19:30:25,774 - INFO - Average Profit per Trade: 0.14%
+2025-01-04 19:30:25,774 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:30:25,774 - INFO - Maximum Drawdown: 7.66%
+2025-01-04 19:30:25,774 - INFO - Profit Factor: 1.52
+2025-01-04 19:30:25,774 - INFO - Sharpe Ratio: 2.47
+2025-01-04 19:30:25,774 - INFO - Max Consecutive Losses: 6
+2025-01-04 19:30:32,708 - INFO - 
+Backtest Results for DOT/USDT:
+2025-01-04 19:30:32,708 - INFO - Total Trades: 71
+2025-01-04 19:30:32,708 - INFO - Win Rate: 29.58%
+2025-01-04 19:30:32,708 - INFO - Total Return: 17.35%
+2025-01-04 19:30:32,708 - INFO - Average Profit per Trade: 0.17%
+2025-01-04 19:30:32,708 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:30:32,708 - INFO - Maximum Drawdown: 7.62%
+2025-01-04 19:30:32,708 - INFO - Profit Factor: 1.25
+2025-01-04 19:30:32,708 - INFO - Sharpe Ratio: 1.52
+2025-01-04 19:30:32,708 - INFO - Max Consecutive Losses: 9
+2025-01-04 19:30:37,805 - INFO - 
+Backtest Results for LINK/USDT:
+2025-01-04 19:30:37,805 - INFO - Total Trades: 67
+2025-01-04 19:30:37,805 - INFO - Win Rate: 26.87%
+2025-01-04 19:30:37,805 - INFO - Total Return: -1.85%
+2025-01-04 19:30:37,805 - INFO - Average Profit per Trade: -0.16%
+2025-01-04 19:30:37,805 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:30:37,805 - INFO - Maximum Drawdown: 15.86%
+2025-01-04 19:30:37,805 - INFO - Profit Factor: 0.80
+2025-01-04 19:30:37,805 - INFO - Sharpe Ratio: -1.57
+2025-01-04 19:30:37,806 - INFO - Max Consecutive Losses: 15
+2025-01-04 19:30:42,657 - INFO - 
+Backtest Results for ORDI/USDT:
+2025-01-04 19:30:42,657 - INFO - Total Trades: 77
+2025-01-04 19:30:42,657 - INFO - Win Rate: 32.47%
+2025-01-04 19:30:42,657 - INFO - Total Return: -13.02%
+2025-01-04 19:30:42,657 - INFO - Average Profit per Trade: -0.19%
+2025-01-04 19:30:42,657 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:30:42,657 - INFO - Maximum Drawdown: 24.71%
+2025-01-04 19:30:42,657 - INFO - Profit Factor: 0.81
+2025-01-04 19:30:42,657 - INFO - Sharpe Ratio: -1.50
+2025-01-04 19:30:42,657 - INFO - Max Consecutive Losses: 8
+2025-01-04 19:30:48,190 - INFO - 
+Backtest Results for ADA/USDT:
+2025-01-04 19:30:48,190 - INFO - Total Trades: 67
+2025-01-04 19:30:48,190 - INFO - Win Rate: 35.82%
+2025-01-04 19:30:48,190 - INFO - Total Return: 11.69%
+2025-01-04 19:30:48,190 - INFO - Average Profit per Trade: 0.04%
+2025-01-04 19:30:48,190 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:30:48,190 - INFO - Maximum Drawdown: 16.60%
+2025-01-04 19:30:48,190 - INFO - Profit Factor: 1.06
+2025-01-04 19:30:48,190 - INFO - Sharpe Ratio: 0.38
+2025-01-04 19:30:48,190 - INFO - Max Consecutive Losses: 9
+2025-01-04 19:30:53,504 - INFO - 
+Backtest Results for LTC/USDT:
+2025-01-04 19:30:53,504 - INFO - Total Trades: 133
+2025-01-04 19:30:53,504 - INFO - Win Rate: 39.85%
+2025-01-04 19:30:53,504 - INFO - Total Return: 30.56%
+2025-01-04 19:30:53,504 - INFO - Average Profit per Trade: -0.00%
+2025-01-04 19:30:53,504 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:30:53,504 - INFO - Maximum Drawdown: 23.00%
+2025-01-04 19:30:53,504 - INFO - Profit Factor: 1.00
+2025-01-04 19:30:53,504 - INFO - Sharpe Ratio: -0.02
+2025-01-04 19:30:53,504 - INFO - Max Consecutive Losses: 10
+2025-01-04 19:30:58,800 - INFO - 
+Backtest Results for UNI/USDT:
+2025-01-04 19:30:58,800 - INFO - Total Trades: 62
+2025-01-04 19:30:58,800 - INFO - Win Rate: 33.87%
+2025-01-04 19:30:58,800 - INFO - Total Return: 3.34%
+2025-01-04 19:30:58,800 - INFO - Average Profit per Trade: 0.12%
+2025-01-04 19:30:58,800 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:30:58,801 - INFO - Maximum Drawdown: 9.73%
+2025-01-04 19:30:58,801 - INFO - Profit Factor: 1.16
+2025-01-04 19:30:58,801 - INFO - Sharpe Ratio: 1.01
+2025-01-04 19:30:58,801 - INFO - Max Consecutive Losses: 14
+2025-01-04 19:31:04,307 - INFO - 
+Backtest Results for POL/USDT:
+2025-01-04 19:31:04,307 - INFO - Total Trades: 87
+2025-01-04 19:31:04,307 - INFO - Win Rate: 32.18%
+2025-01-04 19:31:04,307 - INFO - Total Return: 20.49%
+2025-01-04 19:31:04,307 - INFO - Average Profit per Trade: 0.00%
+2025-01-04 19:31:04,307 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:31:04,307 - INFO - Maximum Drawdown: 23.52%
+2025-01-04 19:31:04,308 - INFO - Profit Factor: 1.01
+2025-01-04 19:31:04,308 - INFO - Sharpe Ratio: 0.04
+2025-01-04 19:31:04,308 - INFO - Max Consecutive Losses: 8
+2025-01-04 19:31:09,884 - INFO - 
+Backtest Results for ATOM/USDT:
+2025-01-04 19:31:09,884 - INFO - Total Trades: 55
+2025-01-04 19:31:09,884 - INFO - Win Rate: 29.09%
+2025-01-04 19:31:09,884 - INFO - Total Return: -0.33%
+2025-01-04 19:31:09,884 - INFO - Average Profit per Trade: -0.37%
+2025-01-04 19:31:09,884 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:31:09,884 - INFO - Maximum Drawdown: 13.98%
+2025-01-04 19:31:09,884 - INFO - Profit Factor: 0.59
+2025-01-04 19:31:09,884 - INFO - Sharpe Ratio: -4.09
+2025-01-04 19:31:09,884 - INFO - Max Consecutive Losses: 13
+2025-01-04 19:31:14,585 - INFO - 
+Backtest Results for ICP/USDT:
+2025-01-04 19:31:14,585 - INFO - Total Trades: 90
+2025-01-04 19:31:14,585 - INFO - Win Rate: 37.78%
+2025-01-04 19:31:14,585 - INFO - Total Return: 6.16%
+2025-01-04 19:31:14,585 - INFO - Average Profit per Trade: -0.08%
+2025-01-04 19:31:14,585 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:31:14,585 - INFO - Maximum Drawdown: 19.61%
+2025-01-04 19:31:14,585 - INFO - Profit Factor: 0.90
+2025-01-04 19:31:14,585 - INFO - Sharpe Ratio: -0.79
+2025-01-04 19:31:14,585 - INFO - Max Consecutive Losses: 10
+2025-01-04 19:31:20,157 - INFO - 
+Backtest Results for OP/USDT:
+2025-01-04 19:31:20,157 - INFO - Total Trades: 74
+2025-01-04 19:31:20,157 - INFO - Win Rate: 39.19%
+2025-01-04 19:31:20,157 - INFO - Total Return: -12.39%
+2025-01-04 19:31:20,157 - INFO - Average Profit per Trade: -0.14%
+2025-01-04 19:31:20,157 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:31:20,157 - INFO - Maximum Drawdown: 26.00%
+2025-01-04 19:31:20,157 - INFO - Profit Factor: 0.85
+2025-01-04 19:31:20,157 - INFO - Sharpe Ratio: -1.28
+2025-01-04 19:31:20,157 - INFO - Max Consecutive Losses: 8
+2025-01-04 19:31:26,938 - INFO - 
+Backtest Results for FIL/USDT:
+2025-01-04 19:31:26,939 - INFO - Total Trades: 75
+2025-01-04 19:31:26,939 - INFO - Win Rate: 33.33%
+2025-01-04 19:31:26,939 - INFO - Total Return: 9.37%
+2025-01-04 19:31:26,939 - INFO - Average Profit per Trade: -0.06%
+2025-01-04 19:31:26,939 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:31:26,939 - INFO - Maximum Drawdown: 9.22%
+2025-01-04 19:31:26,939 - INFO - Profit Factor: 0.92
+2025-01-04 19:31:26,939 - INFO - Sharpe Ratio: -0.59
+2025-01-04 19:31:26,939 - INFO - Max Consecutive Losses: 11
+2025-01-04 19:31:31,704 - INFO - 
+Backtest Results for ARB/USDT:
+2025-01-04 19:31:31,705 - INFO - Total Trades: 77
+2025-01-04 19:31:31,705 - INFO - Win Rate: 36.36%
+2025-01-04 19:31:31,705 - INFO - Total Return: 15.75%
+2025-01-04 19:31:31,705 - INFO - Average Profit per Trade: 0.08%
+2025-01-04 19:31:31,705 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:31:31,705 - INFO - Maximum Drawdown: 8.99%
+2025-01-04 19:31:31,705 - INFO - Profit Factor: 1.09
+2025-01-04 19:31:31,705 - INFO - Sharpe Ratio: 0.65
+2025-01-04 19:31:31,705 - INFO - Max Consecutive Losses: 10
+2025-01-04 19:32:27,556 - INFO - 
+Backtest Results for ETH/USDT:
+2025-01-04 19:32:27,556 - INFO - Total Trades: 700
+2025-01-04 19:32:27,556 - INFO - Win Rate: 49.71%
+2025-01-04 19:32:27,557 - INFO - Total Return: 126.15%
+2025-01-04 19:32:27,557 - INFO - Average Profit per Trade: 0.06%
+2025-01-04 19:32:27,557 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:32:27,557 - INFO - Maximum Drawdown: 22.53%
+2025-01-04 19:32:27,557 - INFO - Profit Factor: 1.23
+2025-01-04 19:32:27,557 - INFO - Sharpe Ratio: 1.42
+2025-01-04 19:32:27,557 - INFO - Max Consecutive Losses: 7
+2025-01-04 19:32:33,944 - INFO - 
+Backtest Results for SOL/USDT:
+2025-01-04 19:32:33,944 - INFO - Total Trades: 531
+2025-01-04 19:32:33,944 - INFO - Win Rate: 51.79%
+2025-01-04 19:32:33,944 - INFO - Total Return: 146.84%
+2025-01-04 19:32:33,944 - INFO - Average Profit per Trade: 0.05%
+2025-01-04 19:32:33,944 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:32:33,944 - INFO - Maximum Drawdown: 21.40%
+2025-01-04 19:32:33,944 - INFO - Profit Factor: 1.15
+2025-01-04 19:32:33,944 - INFO - Sharpe Ratio: 0.97
+2025-01-04 19:32:33,944 - INFO - Max Consecutive Losses: 9
+2025-01-04 19:32:39,443 - INFO - 
+Backtest Results for TRX/USDT:
+2025-01-04 19:32:39,444 - INFO - Total Trades: 282
+2025-01-04 19:32:39,444 - INFO - Win Rate: 47.87%
+2025-01-04 19:32:39,444 - INFO - Total Return: 83.56%
+2025-01-04 19:32:39,444 - INFO - Average Profit per Trade: 0.09%
+2025-01-04 19:32:39,444 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:32:39,444 - INFO - Maximum Drawdown: 24.10%
+2025-01-04 19:32:39,444 - INFO - Profit Factor: 1.27
+2025-01-04 19:32:39,444 - INFO - Sharpe Ratio: 0.99
+2025-01-04 19:32:39,444 - INFO - Max Consecutive Losses: 6
+2025-01-04 19:32:44,493 - INFO - 
+Backtest Results for LTC/USDT:
+2025-01-04 19:32:44,493 - INFO - Total Trades: 433
+2025-01-04 19:32:44,493 - INFO - Win Rate: 44.11%
+2025-01-04 19:32:44,493 - INFO - Total Return: 11.19%
+2025-01-04 19:32:44,493 - INFO - Average Profit per Trade: 0.03%
+2025-01-04 19:32:44,493 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:32:44,493 - INFO - Maximum Drawdown: 39.95%
+2025-01-04 19:32:44,495 - INFO - Profit Factor: 1.07
+2025-01-04 19:32:44,495 - INFO - Sharpe Ratio: 0.42
+2025-01-04 19:32:44,495 - INFO - Max Consecutive Losses: 13
+2025-01-04 19:32:49,751 - INFO - 
+Backtest Results for DOT/USDT:
+2025-01-04 19:32:49,751 - INFO - Total Trades: 258
+2025-01-04 19:32:49,751 - INFO - Win Rate: 42.25%
+2025-01-04 19:32:49,751 - INFO - Total Return: 52.00%
+2025-01-04 19:32:49,751 - INFO - Average Profit per Trade: 0.10%
+2025-01-04 19:32:49,751 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:32:49,752 - INFO - Maximum Drawdown: 19.21%
+2025-01-04 19:32:49,752 - INFO - Profit Factor: 1.20
+2025-01-04 19:32:49,752 - INFO - Sharpe Ratio: 1.19
+2025-01-04 19:32:49,752 - INFO - Max Consecutive Losses: 10
+2025-01-04 19:32:56,083 - INFO - 
+Backtest Results for ARB/USDT:
+2025-01-04 19:32:56,083 - INFO - Total Trades: 299
+2025-01-04 19:32:56,083 - INFO - Win Rate: 50.50%
+2025-01-04 19:32:56,083 - INFO - Total Return: 154.91%
+2025-01-04 19:32:56,083 - INFO - Average Profit per Trade: 0.22%
+2025-01-04 19:32:56,083 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:32:56,083 - INFO - Maximum Drawdown: 16.96%
+2025-01-04 19:32:56,083 - INFO - Profit Factor: 1.42
+2025-01-04 19:32:56,083 - INFO - Sharpe Ratio: 2.37
+2025-01-04 19:32:56,083 - INFO - Max Consecutive Losses: 10
+2025-01-04 19:33:01,046 - INFO - 
+Backtest Results for ADA/USDT:
+2025-01-04 19:33:01,046 - INFO - Total Trades: 252
+2025-01-04 19:33:01,046 - INFO - Win Rate: 40.87%
+2025-01-04 19:33:01,046 - INFO - Total Return: -3.80%
+2025-01-04 19:33:01,046 - INFO - Average Profit per Trade: -0.09%
+2025-01-04 19:33:01,046 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:33:01,046 - INFO - Maximum Drawdown: 42.92%
+2025-01-04 19:33:01,046 - INFO - Profit Factor: 0.87
+2025-01-04 19:33:01,046 - INFO - Sharpe Ratio: -0.96
+2025-01-04 19:33:01,046 - INFO - Max Consecutive Losses: 8
+2025-01-04 19:33:06,455 - INFO - 
+Backtest Results for POL/USDT:
+2025-01-04 19:33:06,455 - INFO - Total Trades: 284
+2025-01-04 19:33:06,455 - INFO - Win Rate: 44.72%
+2025-01-04 19:33:06,455 - INFO - Total Return: 50.33%
+2025-01-04 19:33:06,455 - INFO - Average Profit per Trade: 0.03%
+2025-01-04 19:33:06,455 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:33:06,455 - INFO - Maximum Drawdown: 23.11%
+2025-01-04 19:33:06,455 - INFO - Profit Factor: 1.05
+2025-01-04 19:33:06,455 - INFO - Sharpe Ratio: 0.32
+2025-01-04 19:33:06,455 - INFO - Max Consecutive Losses: 11
+2025-01-04 19:33:11,645 - INFO - 
+Backtest Results for FIL/USDT:
+2025-01-04 19:33:11,645 - INFO - Total Trades: 283
+2025-01-04 19:33:11,645 - INFO - Win Rate: 43.11%
+2025-01-04 19:33:11,645 - INFO - Total Return: 93.19%
+2025-01-04 19:33:11,645 - INFO - Average Profit per Trade: 0.02%
+2025-01-04 19:33:11,645 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:33:11,645 - INFO - Maximum Drawdown: 13.53%
+2025-01-04 19:33:11,645 - INFO - Profit Factor: 1.03
+2025-01-04 19:33:11,645 - INFO - Sharpe Ratio: 0.19
+2025-01-04 19:33:11,645 - INFO - Max Consecutive Losses: 13
+2025-01-04 19:33:18,521 - INFO - 
+Backtest Results for ICP/USDT:
+2025-01-04 19:33:18,522 - INFO - Total Trades: 329
+2025-01-04 19:33:18,522 - INFO - Win Rate: 42.25%
+2025-01-04 19:33:18,522 - INFO - Total Return: 29.43%
+2025-01-04 19:33:18,522 - INFO - Average Profit per Trade: -0.07%
+2025-01-04 19:33:18,522 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:33:18,522 - INFO - Maximum Drawdown: 31.40%
+2025-01-04 19:33:18,522 - INFO - Profit Factor: 0.90
+2025-01-04 19:33:18,522 - INFO - Sharpe Ratio: -0.83
+2025-01-04 19:33:18,522 - INFO - Max Consecutive Losses: 9
+2025-01-04 19:33:24,007 - INFO - 
+Backtest Results for UNI/USDT:
+2025-01-04 19:33:24,007 - INFO - Total Trades: 264
+2025-01-04 19:33:24,007 - INFO - Win Rate: 43.18%
+2025-01-04 19:33:24,007 - INFO - Total Return: 25.43%
+2025-01-04 19:33:24,007 - INFO - Average Profit per Trade: 0.04%
+2025-01-04 19:33:24,007 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:33:24,007 - INFO - Maximum Drawdown: 18.61%
+2025-01-04 19:33:24,007 - INFO - Profit Factor: 1.05
+2025-01-04 19:33:24,008 - INFO - Sharpe Ratio: 0.37
+2025-01-04 19:33:24,008 - INFO - Max Consecutive Losses: 7
+2025-01-04 19:33:30,036 - INFO - 
+Backtest Results for JUP/USDT:
+2025-01-04 19:33:30,036 - INFO - Total Trades: 290
+2025-01-04 19:33:30,036 - INFO - Win Rate: 41.72%
+2025-01-04 19:33:30,037 - INFO - Total Return: 17.14%
+2025-01-04 19:33:30,037 - INFO - Average Profit per Trade: 0.02%
+2025-01-04 19:33:30,037 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 19:33:30,037 - INFO - Maximum Drawdown: 17.98%
+2025-01-04 19:33:30,037 - INFO - Profit Factor: 1.04
+2025-01-04 19:33:30,037 - INFO - Sharpe Ratio: 0.28
+2025-01-04 19:33:30,037 - INFO - Max Consecutive Losses: 9
+2025-01-04 20:18:37,504 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:18:37,752 - ERROR - Error fetching data for OCEAN/USDT: huobi {"ts":1736018318035,"status":"error","err-code":"invalid-parameter","err-msg":"invalid symbol"}
+2025-01-04 20:18:37,752 - ERROR - Not enough data for backtesting OCEAN/USDT
+2025-01-04 20:18:42,175 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:18:48,250 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:18:52,885 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:19:02,513 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:19:02,765 - ERROR - Error fetching data for AGIX/USDT: huobi {"ts":1736018343047,"status":"error","err-code":"invalid-parameter","err-msg":"invalid symbol"}
+2025-01-04 20:19:02,766 - ERROR - Not enough data for backtesting AGIX/USDT
+2025-01-04 20:19:06,607 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:19:10,748 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:19:15,827 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:19:19,752 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:19:23,891 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:19:27,730 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:19:31,707 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:19:36,294 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:19:36,294 - ERROR - Error fetching data for RARE/USDT: huobi does not have market symbol RARE/USDT
+2025-01-04 20:19:36,294 - ERROR - Not enough data for backtesting RARE/USDT
+2025-01-04 20:19:40,794 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:19:50,375 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:19:54,586 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:19:59,281 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:20:04,238 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:20:09,127 - ERROR - Error during backtesting: 'adx'
+2025-01-04 20:22:04,474 - INFO - 
+Backtest Results for HBAR/USDT:
+2025-01-04 20:22:04,474 - INFO - Total Trades: 6
+2025-01-04 20:22:04,474 - INFO - Win Rate: 100.00%
+2025-01-04 20:22:04,474 - INFO - Total Return: 32.29%
+2025-01-04 20:22:04,474 - INFO - Average Profit per Trade: 5.67%
+2025-01-04 20:22:04,474 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:22:04,474 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:22:04,474 - INFO - Profit Factor: 1.00
+2025-01-04 20:22:04,474 - INFO - Sharpe Ratio: 110.96
+2025-01-04 20:22:04,474 - INFO - Max Consecutive Losses: 0
+2025-01-04 20:22:08,574 - INFO - 
+Backtest Results for TON/USDT:
+2025-01-04 20:22:08,574 - INFO - Total Trades: 7
+2025-01-04 20:22:08,574 - INFO - Win Rate: 100.00%
+2025-01-04 20:22:08,574 - INFO - Total Return: 11.05%
+2025-01-04 20:22:08,574 - INFO - Average Profit per Trade: 1.66%
+2025-01-04 20:22:08,574 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:22:08,574 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:22:08,574 - INFO - Profit Factor: 1.00
+2025-01-04 20:22:08,574 - INFO - Sharpe Ratio: 25.49
+2025-01-04 20:22:08,574 - INFO - Max Consecutive Losses: 0
+2025-01-04 20:22:13,830 - INFO - 
+Backtest Results for ALGO/USDT:
+2025-01-04 20:22:13,830 - INFO - Total Trades: 3
+2025-01-04 20:22:13,830 - INFO - Win Rate: 100.00%
+2025-01-04 20:22:13,830 - INFO - Total Return: 15.19%
+2025-01-04 20:22:13,830 - INFO - Average Profit per Trade: 5.33%
+2025-01-04 20:22:13,830 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:22:13,830 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:22:13,830 - INFO - Profit Factor: 1.00
+2025-01-04 20:22:13,830 - INFO - Sharpe Ratio: 76.56
+2025-01-04 20:22:13,830 - INFO - Max Consecutive Losses: 0
+2025-01-04 20:22:18,880 - INFO - 
+Backtest Results for GRT/USDT:
+2025-01-04 20:22:18,881 - INFO - Total Trades: 1
+2025-01-04 20:22:18,881 - INFO - Win Rate: 100.00%
+2025-01-04 20:22:18,881 - INFO - Total Return: 1.90%
+2025-01-04 20:22:18,881 - INFO - Average Profit per Trade: 2.00%
+2025-01-04 20:22:18,881 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:22:18,881 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:22:18,881 - INFO - Profit Factor: 1.00
+2025-01-04 20:22:18,881 - INFO - Sharpe Ratio: 0.00
+2025-01-04 20:22:18,881 - INFO - Max Consecutive Losses: 0
+2025-01-04 20:22:27,172 - INFO - 
+Backtest Results for VET/USDT:
+2025-01-04 20:22:27,172 - INFO - Total Trades: 3
+2025-01-04 20:22:27,172 - INFO - Win Rate: 66.67%
+2025-01-04 20:22:27,172 - INFO - Total Return: 7.79%
+2025-01-04 20:22:27,172 - INFO - Average Profit per Trade: 2.73%
+2025-01-04 20:22:27,172 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:22:27,172 - INFO - Maximum Drawdown: 0.11%
+2025-01-04 20:22:27,172 - INFO - Profit Factor: 68.85
+2025-01-04 20:22:27,172 - INFO - Sharpe Ratio: 24.67
+2025-01-04 20:22:27,172 - INFO - Max Consecutive Losses: 1
+2025-01-04 20:22:31,715 - INFO - 
+Backtest Results for MANA/USDT:
+2025-01-04 20:22:31,715 - INFO - Total Trades: 2
+2025-01-04 20:22:31,715 - INFO - Win Rate: 100.00%
+2025-01-04 20:22:31,715 - INFO - Total Return: 3.58%
+2025-01-04 20:22:31,716 - INFO - Average Profit per Trade: 1.88%
+2025-01-04 20:22:31,716 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:22:31,716 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:22:31,716 - INFO - Profit Factor: 1.00
+2025-01-04 20:22:31,716 - INFO - Sharpe Ratio: 1348.12
+2025-01-04 20:22:31,716 - INFO - Max Consecutive Losses: 0
+2025-01-04 20:22:35,776 - INFO - 
+Backtest Results for ZIL/USDT:
+2025-01-04 20:22:35,776 - INFO - Total Trades: 1
+2025-01-04 20:22:35,776 - INFO - Win Rate: 100.00%
+2025-01-04 20:22:35,776 - INFO - Total Return: 1.73%
+2025-01-04 20:22:35,776 - INFO - Average Profit per Trade: 1.82%
+2025-01-04 20:22:35,776 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:22:35,776 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:22:35,776 - INFO - Profit Factor: 1.00
+2025-01-04 20:22:35,776 - INFO - Sharpe Ratio: 0.00
+2025-01-04 20:22:35,776 - INFO - Max Consecutive Losses: 0
+2025-01-04 20:22:40,423 - INFO - 
+Backtest Results for IOTA/USDT:
+2025-01-04 20:22:40,423 - INFO - Total Trades: 3
+2025-01-04 20:22:40,423 - INFO - Win Rate: 100.00%
+2025-01-04 20:22:40,424 - INFO - Total Return: 14.55%
+2025-01-04 20:22:40,424 - INFO - Average Profit per Trade: 5.10%
+2025-01-04 20:22:40,424 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:22:40,424 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:22:40,424 - INFO - Profit Factor: 1.00
+2025-01-04 20:22:40,424 - INFO - Sharpe Ratio: 46.19
+2025-01-04 20:22:40,424 - INFO - Max Consecutive Losses: 0
+2025-01-04 20:22:45,505 - INFO - 
+Backtest Results for GALA/USDT:
+2025-01-04 20:22:45,505 - INFO - Total Trades: 1
+2025-01-04 20:22:45,505 - INFO - Win Rate: 100.00%
+2025-01-04 20:22:45,505 - INFO - Total Return: 2.50%
+2025-01-04 20:22:45,505 - INFO - Average Profit per Trade: 2.64%
+2025-01-04 20:22:45,505 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:22:45,506 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:22:45,506 - INFO - Profit Factor: 1.00
+2025-01-04 20:22:45,506 - INFO - Sharpe Ratio: 0.00
+2025-01-04 20:22:45,506 - INFO - Max Consecutive Losses: 0
+2025-01-04 20:22:49,348 - INFO - 
+Backtest Results for ZRX/USDT:
+2025-01-04 20:22:49,348 - INFO - Total Trades: 2
+2025-01-04 20:22:49,348 - INFO - Win Rate: 50.00%
+2025-01-04 20:22:49,348 - INFO - Total Return: 1.13%
+2025-01-04 20:22:49,348 - INFO - Average Profit per Trade: 0.60%
+2025-01-04 20:22:49,348 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:22:49,348 - INFO - Maximum Drawdown: 0.80%
+2025-01-04 20:22:49,348 - INFO - Profit Factor: 2.42
+2025-01-04 20:22:49,348 - INFO - Sharpe Ratio: 7.93
+2025-01-04 20:22:49,348 - INFO - Max Consecutive Losses: 1
+2025-01-04 20:22:54,417 - INFO - 
+Backtest Results for ENJ/USDT:
+2025-01-04 20:22:54,418 - INFO - Total Trades: 2
+2025-01-04 20:22:54,418 - INFO - Win Rate: 100.00%
+2025-01-04 20:22:54,418 - INFO - Total Return: 3.66%
+2025-01-04 20:22:54,418 - INFO - Average Profit per Trade: 1.93%
+2025-01-04 20:22:54,418 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:22:54,418 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:22:54,418 - INFO - Profit Factor: 1.00
+2025-01-04 20:22:54,418 - INFO - Sharpe Ratio: 24.28
+2025-01-04 20:22:54,418 - INFO - Max Consecutive Losses: 0
+2025-01-04 20:23:01,378 - INFO - 
+Backtest Results for AUDIO/USDT:
+2025-01-04 20:23:01,378 - INFO - Total Trades: 1
+2025-01-04 20:23:01,379 - INFO - Win Rate: 100.00%
+2025-01-04 20:23:01,379 - INFO - Total Return: 7.20%
+2025-01-04 20:23:01,379 - INFO - Average Profit per Trade: 7.58%
+2025-01-04 20:23:01,379 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:23:01,379 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:23:01,379 - INFO - Profit Factor: 1.00
+2025-01-04 20:23:01,379 - INFO - Sharpe Ratio: 0.00
+2025-01-04 20:23:01,379 - INFO - Max Consecutive Losses: 0
+2025-01-04 20:23:06,620 - INFO - 
+Backtest Results for FLOW/USDT:
+2025-01-04 20:23:06,620 - INFO - Total Trades: 1
+2025-01-04 20:23:06,620 - INFO - Win Rate: 100.00%
+2025-01-04 20:23:06,620 - INFO - Total Return: 0.80%
+2025-01-04 20:23:06,620 - INFO - Average Profit per Trade: 0.84%
+2025-01-04 20:23:06,621 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:23:06,621 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:23:06,621 - INFO - Profit Factor: 1.00
+2025-01-04 20:23:06,621 - INFO - Sharpe Ratio: 0.00
+2025-01-04 20:23:06,621 - INFO - Max Consecutive Losses: 0
+2025-01-04 20:23:10,684 - INFO - 
+Backtest Results for MASK/USDT:
+2025-01-04 20:23:10,684 - INFO - Total Trades: 2
+2025-01-04 20:23:10,684 - INFO - Win Rate: 50.00%
+2025-01-04 20:23:10,685 - INFO - Total Return: 1.32%
+2025-01-04 20:23:10,685 - INFO - Average Profit per Trade: 0.70%
+2025-01-04 20:23:10,685 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:23:10,685 - INFO - Maximum Drawdown: 3.11%
+2025-01-04 20:23:10,685 - INFO - Profit Factor: 1.41
+2025-01-04 20:23:10,685 - INFO - Sharpe Ratio: 3.23
+2025-01-04 20:23:10,685 - INFO - Max Consecutive Losses: 1
+2025-01-04 20:23:20,718 - INFO - 
+Backtest Results for FTM/USDT:
+2025-01-04 20:23:20,718 - INFO - Total Trades: 1
+2025-01-04 20:23:20,718 - INFO - Win Rate: 100.00%
+2025-01-04 20:23:20,718 - INFO - Total Return: 5.49%
+2025-01-04 20:23:20,719 - INFO - Average Profit per Trade: 5.78%
+2025-01-04 20:23:20,719 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:23:20,719 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:23:20,719 - INFO - Profit Factor: 1.00
+2025-01-04 20:23:20,719 - INFO - Sharpe Ratio: 0.00
+2025-01-04 20:23:20,719 - INFO - Max Consecutive Losses: 0
+2025-01-04 20:23:24,768 - INFO - 
+Backtest Results for ARB/USDT:
+2025-01-04 20:23:24,768 - INFO - Total Trades: 1
+2025-01-04 20:23:24,768 - INFO - Win Rate: 100.00%
+2025-01-04 20:23:24,768 - INFO - Total Return: 1.26%
+2025-01-04 20:23:24,768 - INFO - Average Profit per Trade: 1.32%
+2025-01-04 20:23:24,768 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:23:24,768 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:23:24,768 - INFO - Profit Factor: 1.00
+2025-01-04 20:23:24,768 - INFO - Sharpe Ratio: 0.00
+2025-01-04 20:23:24,768 - INFO - Max Consecutive Losses: 0
+2025-01-04 20:23:29,544 - INFO - 
+Backtest Results for KAVA/USDT:
+2025-01-04 20:23:29,544 - INFO - Total Trades: 1
+2025-01-04 20:23:29,544 - INFO - Win Rate: 0.00%
+2025-01-04 20:23:29,544 - INFO - Total Return: -0.06%
+2025-01-04 20:23:29,544 - INFO - Average Profit per Trade: -0.06%
+2025-01-04 20:23:29,544 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:23:29,544 - INFO - Maximum Drawdown: 0.06%
+2025-01-04 20:23:29,544 - INFO - Profit Factor: 0.00
+2025-01-04 20:23:29,544 - INFO - Sharpe Ratio: 0.00
+2025-01-04 20:23:29,544 - INFO - Max Consecutive Losses: 1
+2025-01-04 20:23:35,148 - INFO - 
+Backtest Results for CFX/USDT:
+2025-01-04 20:23:35,148 - INFO - Total Trades: 1
+2025-01-04 20:23:35,148 - INFO - Win Rate: 0.00%
+2025-01-04 20:23:35,148 - INFO - Total Return: -0.06%
+2025-01-04 20:23:35,148 - INFO - Average Profit per Trade: -0.06%
+2025-01-04 20:23:35,148 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:23:35,149 - INFO - Maximum Drawdown: 0.06%
+2025-01-04 20:23:35,149 - INFO - Profit Factor: 0.00
+2025-01-04 20:23:35,149 - INFO - Sharpe Ratio: 0.00
+2025-01-04 20:23:35,149 - INFO - Max Consecutive Losses: 1
+2025-01-04 20:23:40,925 - INFO - 
+Backtest Results for SKL/USDT:
+2025-01-04 20:23:40,925 - INFO - Total Trades: 1
+2025-01-04 20:23:40,925 - INFO - Win Rate: 100.00%
+2025-01-04 20:23:40,925 - INFO - Total Return: 3.65%
+2025-01-04 20:23:40,925 - INFO - Average Profit per Trade: 3.84%
+2025-01-04 20:23:40,925 - INFO - Average Trade Duration: 0.00 hours
+2025-01-04 20:23:40,925 - INFO - Maximum Drawdown: 0.00%
+2025-01-04 20:23:40,925 - INFO - Profit Factor: 1.00
+2025-01-04 20:23:40,925 - INFO - Sharpe Ratio: 0.00
+2025-01-04 20:23:40,925 - INFO - Max Consecutive Losses: 0
