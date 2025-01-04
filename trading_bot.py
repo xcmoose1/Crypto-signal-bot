@@ -63,6 +63,32 @@ class TradingBot:
         self.TRAILING_STOP = True        # Keep trailing stop enabled
         self.TRAILING_STOP_FACTOR = 1.8  # Increased trailing stop distance
         
+        # Trading pairs with their success rates
+        self.trading_pairs = [
+            'HBAR/USDT',  # 7 trades, 100% win rate
+            'TON/USDT',   # 3 trades, 100% win rate
+            'ALGO/USDT',  # 3 trades, 100% win rate
+            'GRT/USDT',   # 3 trades, 100% win rate
+            'CHZ/USDT',   # 3 trades, 100% win rate
+            'VET/USDT',   # 3 trades, 100% win rate
+            'MANA/USDT',  # 2 trades, 100% win rate
+            'ZIL/USDT',   # 2 trades, 100% win rate
+            'IOTA/USDT',  # 2 trades, 100% win rate
+            'GALA/USDT',  # 2 trades, 100% win rate
+            'ZRX/USDT',   # 2 trades, 100% win rate
+            'ENJ/USDT',   # 2 trades, 100% win rate
+            'AUDIO/USDT', # 2 trades, 100% win rate
+            'FLOW/USDT',  # 2 trades, 100% win rate
+            'MASK/USDT',  # 2 trades, 100% win rate
+            'ANKR/USDT',  # 2 trades, 100% win rate
+            'FTM/USDT',   # 4 trades, 75% win rate
+            'ARB/USDT',   # 3 trades, 66.67% win rate
+            'KAVA/USDT',  # 3 trades, 66.67% win rate
+            'ONE/USDT',   # 3 trades, 66.67% win rate
+            'CFX/USDT',   # 3 trades, 66.67% win rate
+            'SKL/USDT'    # 3 trades, 66.67% win rate
+        ]
+        
     def setup_logging(self):
         """Setup logging configuration"""
         self.logger = logging.getLogger('TradingBot')
@@ -882,83 +908,51 @@ class TradingBot:
         """Run the trading bot"""
         try:
             self.log_info("Starting bot...")
+            
+            # Send startup message
             await self.send_startup_message()
             
-            # Start processing pairs
+            # Start the Telegram bot first
+            await self.application.initialize()
+            await self.application.start()
+            
+            # Start monitoring pairs in the background
             tasks = []
             for pair in self.trading_pairs:
                 task = asyncio.create_task(self.monitor_pairs())
                 tasks.append(task)
             
-            # Start the Telegram bot
-            await self.application.initialize()
-            await self.application.start()
-            await self.application.run_polling(allowed_updates=Update.ALL_TYPES)
+            # Run the application polling in the background
+            polling_task = asyncio.create_task(
+                self.application.run_polling(allowed_updates=Update.ALL_TYPES, close_loop=False)
+            )
             
-            # Wait for all tasks
-            await asyncio.gather(*tasks)
+            # Wait for all tasks or until interrupted
+            try:
+                await asyncio.gather(polling_task, *tasks)
+            except asyncio.CancelledError:
+                self.log_info("Received shutdown signal")
             
         except Exception as e:
             self.log_error(f"Error running bot: {str(e)}")
         finally:
-            await self.application.stop()
-            await self.application.shutdown()
+            # Clean shutdown
+            try:
+                if self.application.running:
+                    await self.application.stop()
+                    await self.application.shutdown()
+                self.log_info("Bot shutdown complete")
+            except Exception as e:
+                self.log_error(f"Error during shutdown: {str(e)}")
 
 async def main():
     bot = TradingBot()
-    bot.trading_pairs = [
-        'HBAR/USDT',  # 7 trades, 100% win rate
-        'TON/USDT',   # 3 trades, 100% win rate
-        'ALGO/USDT',  # 3 trades, 100% win rate
-        'GRT/USDT',   # 3 trades, 100% win rate
-        'CHZ/USDT',   # 3 trades, 100% win rate
-        'VET/USDT',   # 3 trades, 100% win rate
-        'MANA/USDT',  # 2 trades, 100% win rate
-        'ZIL/USDT',   # 2 trades, 100% win rate
-        'IOTA/USDT',  # 2 trades, 100% win rate
-        'GALA/USDT',  # 2 trades, 100% win rate
-        'ZRX/USDT',   # 2 trades, 100% win rate
-        'ENJ/USDT',   # 2 trades, 100% win rate
-        'AUDIO/USDT', # 2 trades, 100% win rate
-        'FLOW/USDT',  # 2 trades, 100% win rate
-        'MASK/USDT',  # 2 trades, 100% win rate
-        'ANKR/USDT',  # 2 trades, 100% win rate
-        'FTM/USDT',   # 4 trades, 75% win rate
-        'ARB/USDT',   # 3 trades, 66.67% win rate
-        'KAVA/USDT',  # 3 trades, 66.67% win rate
-        'ONE/USDT',   # 3 trades, 66.67% win rate
-        'CFX/USDT',   # 3 trades, 66.67% win rate
-        'SKL/USDT'    # 3 trades, 66.67% win rate
-    ]
-    await bot.run()
+    try:
+        await bot.run()
+    except KeyboardInterrupt:
+        print("Received keyboard interrupt, shutting down...")
+    except Exception as e:
+        print(f"Error in main: {str(e)}")
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1 and sys.argv[1] == "--backtest":
-        bot = TradingBot()
-        bot.trading_pairs = [
-            'HBAR/USDT',  # 7 trades, 100% win rate
-            'TON/USDT',   # 3 trades, 100% win rate
-            'ALGO/USDT',  # 3 trades, 100% win rate
-            'GRT/USDT',   # 3 trades, 100% win rate
-            'CHZ/USDT',   # 3 trades, 100% win rate
-            'VET/USDT',   # 3 trades, 100% win rate
-            'MANA/USDT',  # 2 trades, 100% win rate
-            'ZIL/USDT',   # 2 trades, 100% win rate
-            'IOTA/USDT',  # 2 trades, 100% win rate
-            'GALA/USDT',  # 2 trades, 100% win rate
-            'ZRX/USDT',   # 2 trades, 100% win rate
-            'ENJ/USDT',   # 2 trades, 100% win rate
-            'AUDIO/USDT', # 2 trades, 100% win rate
-            'FLOW/USDT',  # 2 trades, 100% win rate
-            'MASK/USDT',  # 2 trades, 100% win rate
-            'ANKR/USDT',  # 2 trades, 100% win rate
-            'FTM/USDT',   # 4 trades, 75% win rate
-            'ARB/USDT',   # 3 trades, 66.67% win rate
-            'KAVA/USDT',  # 3 trades, 66.67% win rate
-            'ONE/USDT',   # 3 trades, 66.67% win rate
-            'CFX/USDT',   # 3 trades, 66.67% win rate
-            'SKL/USDT'    # 3 trades, 66.67% win rate
-        ]
-        asyncio.run(bot.run_backtest())
-    else:
-        asyncio.run(main())
+    asyncio.run(main())
