@@ -244,6 +244,23 @@ class TradingBot:
         except Exception as e:
             self.log_error(f"Error sending Telegram message: {str(e)}")
 
+    async def send_startup_message(self):
+        """Send startup message to Telegram channel"""
+        emojis = {
+            'alert': '🚨',
+            'time': '⏰'
+        }
+        startup_message = (
+            f"{emojis['alert']} *Bot Started* {emojis['alert']}\n\n"
+            "Monitoring the following pairs:\n"
+            f"• {', '.join(self.trading_pairs[:5])}\n"
+            f"• {', '.join(self.trading_pairs[5:10])}\n"
+            f"• {', '.join(self.trading_pairs[10:])}\n\n"
+            "*Timeframe*: 15m\n\n"
+            "Stay tuned for trading signals! 📈"
+        )
+        await self.send_telegram_message(startup_message)
+
     def calculate_indicators(self, df):
         # Bollinger Bands
         df['bb_middle'] = df['close'].rolling(window=20).mean()
