@@ -1427,3 +1427,8 @@ Backtest Results for SKL/USDT:
 2025-01-04 20:23:40,925 - INFO - Max Consecutive Losses: 0
 2025-01-04 21:15:57,388 - INFO - HTTP Request: POST https://api.telegram.org/bot7112604351:AAFD7zNG-2lhXfNbpvaXoYWBARQaGRR_zxI/sendMessage "HTTP/1.1 400 Bad Request"
 2025-01-04 21:15:57,389 - ERROR - Error sending Telegram message: Chat not found
+2025-01-04 21:18:29,587 - INFO - Starting bot...
+2025-01-04 21:18:29,587 - INFO - Attempting to send message to channel -1002461895120
+2025-01-04 21:18:29,869 - INFO - HTTP Request: POST https://api.telegram.org/bot7112604351:AAFD7zNG-2lhXfNbpvaXoYWBARQaGRR_zxI/sendMessage "HTTP/1.1 200 OK"
+2025-01-04 21:18:29,870 - INFO - Signal sent successfully
+2025-01-04 21:18:29,870 - INFO - Test message sent successfully
