@@ -246,20 +246,13 @@ class TradingBot:
 
     async def send_startup_message(self):
         """Send startup message to Telegram channel"""
-        emojis = {
-            'alert': '🚨',
-            'time': '⏰'
-        }
-        startup_message = (
-            f"{emojis['alert']} *Bot Started* {emojis['alert']}\n\n"
-            "Monitoring the following pairs:\n"
-            f"• {', '.join(self.trading_pairs[:5])}\n"
-            f"• {', '.join(self.trading_pairs[5:10])}\n"
-            f"• {', '.join(self.trading_pairs[10:])}\n\n"
-            "*Timeframe*: 15m\n\n"
-            "Stay tuned for trading signals! 📈"
-        )
-        await self.send_telegram_message(startup_message)
+        try:
+            test_message = "Bot is starting... Test message"
+            self.log_info(f"Attempting to send message to channel {self.channel_id}")
+            await self.send_telegram_message(test_message)
+            self.log_info("Test message sent successfully")
+        except Exception as e:
+            self.log_error(f"Error in send_startup_message: {str(e)}")
 
     def calculate_indicators(self, df):
         # Bollinger Bands
@@ -886,11 +879,30 @@ class TradingBot:
             print(f"Avg Profit: {result['avg_profit']:.2f}%")
 
     async def run(self):
-        await self.send_startup_message()
-        await asyncio.gather(
-            self.application.run_polling(allowed_updates=Update.ALL_TYPES),
-            self.monitor_pairs()
-        )
+        """Run the trading bot"""
+        try:
+            self.log_info("Starting bot...")
+            await self.send_startup_message()
+            
+            # Start processing pairs
+            tasks = []
+            for pair in self.trading_pairs:
+                task = asyncio.create_task(self.monitor_pairs())
+                tasks.append(task)
+            
+            # Start the Telegram bot
+            await self.application.initialize()
+            await self.application.start()
+            await self.application.run_polling(allowed_updates=Update.ALL_TYPES)
+            
+            # Wait for all tasks
+            await asyncio.gather(*tasks)
+            
+        except Exception as e:
+            self.log_error(f"Error running bot: {str(e)}")
+        finally:
+            await self.application.stop()
+            await self.application.shutdown()
 
 async def main():
     bot = TradingBot()

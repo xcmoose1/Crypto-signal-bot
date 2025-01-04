@@ -1425,3 +1425,5 @@ Backtest Results for SKL/USDT:
 2025-01-04 20:23:40,925 - INFO - Profit Factor: 1.00
 2025-01-04 20:23:40,925 - INFO - Sharpe Ratio: 0.00
 2025-01-04 20:23:40,925 - INFO - Max Consecutive Losses: 0
+2025-01-04 21:15:57,388 - INFO - HTTP Request: POST https://api.telegram.org/bot7112604351:AAFD7zNG-2lhXfNbpvaXoYWBARQaGRR_zxI/sendMessage "HTTP/1.1 400 Bad Request"
+2025-01-04 21:15:57,389 - ERROR - Error sending Telegram message: Chat not found
