@@ -3,7 +3,7 @@ services:
     name: trading-bot
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python trading_bot.py
+    startCommand: python /opt/render/project/src/trading_bot.py
     envVars:
       - key: TELEGRAM_BOT_TOKEN
         sync: false
